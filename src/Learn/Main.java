@@ -25,6 +25,7 @@ public class Main {
 			System.out.println("Hai inserito: " + fac + "." + " Va bene?");
 			System.out.println();
 			System.out.println("[1] = Si; [2] = No");
+			System.out.println();
 
 			int prem2 = input.nextInt();
 
