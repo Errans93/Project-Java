@@ -2,7 +2,7 @@ package Ereditarietà;
 
 public class Persona {
 
-	private String nome;
+	protected String nome;
 	private String indirizzo;
 
 	// costruttore

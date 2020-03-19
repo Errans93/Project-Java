@@ -21,8 +21,9 @@ public class Professore extends Persona {
 		return dipartimento;
 	}
 
+	@Override
 	public void visualizza() {
-		System.out.println("        Nome: " + getNome());
+		System.out.println("        Nome: " + nome);
 		System.out.println("   Indirizzo: " + getIndirizzo());
 		System.out.println("      Codice: " + codiceDocente);
 		System.out.println("Dipartimento: " + dipartimento);
