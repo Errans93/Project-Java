@@ -28,9 +28,9 @@ public class Figlio extends Persona {
 		System.out.println("Indirizzo: " + getIndirizzo());
 
 		if (isStudente())
-			System.out.println(getNome() + "è studente. " + "Paga meno il biglietto");
+			System.out.println(getNome() + " è studente. " + " Paga meno il biglietto");
 		else
-			System.out.println(getNome() + "non è studente. E non avrà lo sconto per gli studenti");
+			System.out.println(getNome() + " non è studente. E non avrà lo sconto per gli studenti");
 		System.out.println();
 	}
 
