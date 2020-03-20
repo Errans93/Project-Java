@@ -13,7 +13,7 @@ public class Spettacolo {
 	private int postiPrenotati = 0;
 
 	// costante condivisa che indica la capienza del teatro
-	private static final int CAPIENZA = 100;
+	private static final int CAPIENZA = 10;
 
 	// costruttore
 	public Spettacolo(String titolo, String compagnia, String dataora) {
@@ -42,7 +42,7 @@ public class Spettacolo {
 	}
 
 	// stampa l'elenco delle prenotazioni
-	public void visualizza() {
+	public void stampaPrenotazioni() {
 		System.out.println("Spettacolo: " + titolo);
 		System.out.println("Del " + dataora);
 		System.out.println();
