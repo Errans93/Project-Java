@@ -14,11 +14,12 @@ public class Genitore extends Persona {
 	public String getMestiere() {
 		return mestiere;
 	}
+	
 @Override
 	public void visualizza() {
 		System.out.println("     Nome: " + getNome());
 		System.out.println("Indirizzo: " + getIndirizzo());
-		System.out.println("Dipartimento: " + mestiere);
+		System.out.println("Mestiere: " + mestiere);
 		System.out.println();
 	}
 

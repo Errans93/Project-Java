@@ -50,76 +50,47 @@ public class UsaSpettacolo {
 
 		// prenota posti
 
-		boolean[] prenotaz = new boolean[14];
+		boolean[] prenotaF = new boolean[4];
+		boolean[] prenotaG = new boolean[10];
 
-		prenotaz[0] = spet.prenota(figlio1[0]);
-		System.out.println(figlio1[0].getNome() + " è studente?");
-		risposta = input.next();
-		figlio1[0].checkRisposta(risposta);
-
-		prenotaz[1] = spet.prenota(figlio1[1]);
-		System.out.println(figlio1[1].getNome() + " è studente?");
-		risposta = input.next();
-		figlio1[1].checkRisposta(risposta);
-
-		prenotaz[2] = spet.prenota(figlio1[2]);
-		System.out.println(figlio1[2].getNome() + " è studente?");
-		risposta = input.next();
-		figlio1[2].checkRisposta(risposta);
-
-		prenotaz[3] = spet.prenota(figlio1[3]);
-		System.out.println(figlio1[3].getNome() + " è studente?");
-		risposta = input.next();
-		figlio1[3].checkRisposta(risposta);
-
-		prenotaz[4] = spet.prenota(gen1[0]);
-		prenotaz[5] = spet.prenota(gen1[1]);
-		prenotaz[6] = spet.prenota(gen1[2]);
-		prenotaz[7] = spet.prenota(gen1[3]);
-		prenotaz[8] = spet.prenota(gen1[4]);
-		prenotaz[9] = spet.prenota(gen1[5]);
-		prenotaz[10] = spet.prenota(gen1[6]);
-		prenotaz[11] = spet.prenota(gen1[7]);
-		prenotaz[12] = spet.prenota(gen1[8]);
-		prenotaz[13] = spet.prenota(gen1[9]);
-
-		for (int i = 0; i < prenotaz.length; i++) {
-			figlio1[i].esaurito(prenotaz[i]);
+		for (int i = 0; i < figlio1.length; i++) {
+			prenotaF[i] = spet.prenota(figlio1[i]);
+			System.out.println(figlio1[i].getNome() + " è studente?");
+			risposta = input.next();
+			figlio1[i].checkRisposta(risposta);
 		}
-		
-		
-		for (int i = 0; i < prenotaz.length; i++) {
-			if (i < 4) {
-				if (!prenotaz[i]) {
-					System.out.println("Il Biglietto di " + figlio1[i].getNome()
-							+ " non può essere venduto -> i biglietti sono FINITI");
 
-				}
-			} else {
-				if (!prenotaz[i]) {
-					System.out.println("Il Biglietto di " + gen1[i - 4].getNome()
-							+ " non può essere venduto -> i biglietti sono FINITI");
-				}
-			}
-
+		for (int i = 0; i < gen1.length; i++) {
+			prenotaG[i] = spet.prenota(gen1[i]);
 		}
+
+		
 
 		System.out.println();
 		System.out.println("***************************************************************");
 		System.out.println();
-
-		// if (!ok1 || !ok2 || !ok3 || !ok4 || !ok5 || !ok6 || !ok7 || !ok8 || !ok9 ||
-		// !ok10 || !ok11 || !ok12 || !ok13
-		// || !ok14)
-		// if (!ok1 || !ok2 || !ok3 || !ok4 || !ok5 || !ok6 || !ok7 || !ok8 || !ok9 ||
-		// !ok10 || !ok11)
-		// System.out.println("Biglietti finiti");
 
 		// stampa l'elenco delle prenotazioni
 		spet.stampaPrenotazioni();
 
 		// stampa i posti disponibili
 		System.out.println("Posti disponibili: " + spet.postiDisponibili());
+		
+		for (int i = 0; i < prenotaF.length; i++) {
+			if (!prenotaF[i]) {
+
+				spet.esaurito(figlio1[i], prenotaF[i]);
+			}
+
+		}
+
+		for (int i = 0; i < prenotaG.length; i++) {
+			if (!prenotaG[i]) {
+
+				spet.esaurito(gen1[i], prenotaG[i]);
+			}
+
+		}
 
 	}
 }

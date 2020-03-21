@@ -41,9 +41,9 @@ public class Spettacolo {
 			return false;
 	}
 
-	public void esaurito(boolean prenotaz) {
+	public void esaurito(Persona spettatore, boolean prenotaz) {
 		if (!prenotaz) {
-			System.out.println(" Il Biglietto non può essere venduro perchè i biglietti sono esauriti");
+			System.out.println(" Il Biglietto non può essere venduto perchè i biglietti sono esauriti. " + spettatore.getNome());
 		}
 	}
 
