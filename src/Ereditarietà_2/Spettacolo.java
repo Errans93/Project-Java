@@ -41,6 +41,12 @@ public class Spettacolo {
 			return false;
 	}
 
+	public void esaurito(boolean prenotaz) {
+		if (!prenotaz) {
+			System.out.println(" Il Biglietto non può essere venduro perchè i biglietti sono esauriti");
+		}
+	}
+
 	// stampa l'elenco delle prenotazioni
 	public void stampaPrenotazioni() {
 		System.out.println("Spettacolo: " + titolo);
