@@ -8,30 +8,15 @@ public class UsaSpettacolo {
 
 		// creo un paio di persone
 
-		// Figlio figlio1 = new Figlio("Edoardo Errani", "Via Letizia 1", true);
-		// Figlio figlio2 = new Figlio("Nicola Errani", "Via Letizia 2", true);
-		// Figlio figlio3 = new Figlio("Francesco Errani", "Via Letizia 3", true);
-		// Figlio figlio4 = new Figlio("Enrico Errani", "Via Letizia 4", true);
-
-		// Genitore gen1 = new Genitore("Giulio Errani", "Via Letizia 5", "Avvocato");
-		// Genitore gen2 = new Genitore("Alberto Errani", "Via Letizia 6", "Chimico");
-		// Genitore gen3 = new Genitore("Maddalena Errani", "Via Letizia 7", "Fisico");
-		// Genitore gen4 = new Genitore("Margherita Errani", "Via Letizia 8", "Notaio");
-		// Genitore gen5 = new Genitore("Lorenzo Errani", "Via Letizia 9", "Medico");
-		// Genitore gen6 = new Genitore("Giulio Errani", "Via Letizia 10", "Avvocato");
-		// Genitore gen7 = new Genitore("Andrea Errani", "Via Letizia 11", "Chimico");
-		// Genitore gen8 = new Genitore("Maddalena Errani", "Via Letizia 12", "Fisico");
-		// Genitore gen9 = new Genitore("Margherita Errani", "Via Letizia 13",
-		// "Notaio");
-		// Genitore gen10 = new Genitore("Lorenzo Errani", "Via Letizia 14", "Medico");
-
 		Figlio[] figlio1 = new Figlio[4];
+		
 		figlio1[0] = new Figlio("Edoardo Errani", "Via Letizia 1", true);
 		figlio1[1] = new Figlio("Nicola Errani", "Via Letizia 2", true);
 		figlio1[2] = new Figlio("Francesco Errani", "Via Letizia 3", true);
 		figlio1[3] = new Figlio("Enrico Errani", "Via Letizia 4", true);
 
 		Genitore[] gen1 = new Genitore[10];
+		
 		gen1[0] = new Genitore("Giulio Errani", "Via Letizia 5", "Avvocato");
 		gen1[1] = new Genitore("Alberto Errani", "Via Letizia 6", "Chimico");
 		gen1[2] = new Genitore("Maddalena Errani", "Via Letizia 7", "Fisico");
