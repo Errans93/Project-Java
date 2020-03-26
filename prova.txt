@@ -1,0 +1,1029 @@
+<!DOCTYPE html SYSTEM "about:legacy-compat">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="IT" xml:lang="IT">
+<head>
+<title>Covid-19 - Situazione nel mondo</title>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content=" - Covid-19 - Situazione nel mondo" name="DC.description"/>
+<meta content=" - Covid-19 - Situazione nel mondo" name="description"/>
+<meta content="Ministero della Salute" name="author"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<link href="apple-touch-icon.png" rel="apple-touch-icon"/>
+<link rel="shortcut icon" href="favicon.ico"/>
+<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300italic,300,400italic,600,600italic,700,700italic,900"/>
+<link href="styles/combined-1e845f327b.css" rel="stylesheet"/>
+<link href="css/brands.css" rel="stylesheet"/>
+<link href="css/fontawesome.css" rel="stylesheet"/>
+<meta content="http://www.salute.gov.it/imgs/C_17_pagineAree_5338_0_immagine.jpg" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Covid-19 - Situazione nel mondo" name="twitter:title"/>
+<meta content=" - Covid-19 - Situazione nel mondo" name="twitter:description"/>
+<meta content="http://www.salute.gov.it/imgs/C_17_pagineAree_5338_0_immagine.jpg" name="twitter:image"/>
+<meta content="350" property="og:image:width"/>
+<meta content="350" property="og:image:height"/>
+<script type="text/javascript" src="/portale/ruxitagentjs_ICA27SVfjqrux_10187200323152418.js" data-dtconfig="app=0a0f6d2d1b1156e7|featureHash=ICA27SVfjqrux|rdnt=1|uxrgce=1|bp=2|cuc=yysfe9j0|srms=1,1,,,|uxrgcm=100,25,300,3;100,25,300,3|dpvc=1|lastModification=1585184898757|dtVersion=10187200323152418|tp=500,50,0,1|uxdcw=1500|agentUri=/portale/ruxitagentjs_ICA27SVfjqrux_10187200323152418.js|reportUrl=/portale/rb_ec01d7cd-b727-4dac-ab88-6d530d72ee93|rid=RID_137459738|rpid=809447200|domain=salute.gov.it"></script></head>
+<body>
+<div class="skiplink sr-only">
+<ul>
+<li>
+<a tabindex="800" href="#navbar" accesskey="2">Vai alla testata del sito</a>
+</li>
+<li>
+<a tabindex="800" href="#menu" accesskey="3">Vai alla navigazione del sito</a>
+</li>
+<li>
+<a tabindex="800" href="#intestazioneContenuto" accesskey="4">Vai ai contenuti del sito</a>
+</li>
+<li>
+<a tabindex="800" href="#footer" accesskey="5">Vai al footer del sito</a>
+</li>
+</ul>
+</div>
+<div class="nav-banner">
+<div class="container">
+<div class="row">
+<div class="col-md-1 col-md-offset-3">
+<img title="Logo" alt="Logo" src="/portale/nuovocoronavirus/images/loghi/stellone.png" class="navbar__logo"/>
+</div>
+<div class="col-md-6">
+<p class="h4">
+<a onclick="window.open(this.href);return false" title="Collegamento al sito www.salute.gov.it. Apre una nuova pagina." href="http://www.salute.gov.it/" style="color:#fff;text-decoration:none;">Ministero della Salute</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="page_top" class="container">
+<header id="navbar" class="navbar navbar-default navbar-fixed-top hidden-print">
+<div class="navbar-header container">
+<div class="row">
+<a aria-controls="navbar" data-target="#navbar" data-toggle="offcanvas" title="navigazione" aria-label="apri e chiudi menu" class="navbar-toggle" href="#" id="nav-toggle">
+<span style="font-size:0px;">.</span>
+</a>
+<div class="col-xs-8 col-xs-offset-0 col-sm-5 col-sm-offset-0 col-md-5 col-md-offset-0 navbar__title_container normalizza-margine-titolo">
+<h1>
+<a tabindex="-1" href="http://www.salute.gov.it/nuovocoronavirus" accesskey="1">
+<span>Nuovo coronavirus</span>
+</a>
+</h1>
+</div>
+<div style="margin-top:0.5em;text-align:right;" id="cerca">
+<span class="social" style="color:#fff;" id="social">Seguici su: 
+					
+<a style="padding-left:5px;text-decoration:none;" onclick="window.open(this.href);return false" title="Collegamento alla pagina Facebook del Ministero della Salute. Apre una nuova pagina." href="https://www.facebook.com/MinisteroSalute">
+<span class="fab fa-facebook">
+<span style="color:transparent;font-size:0px;">.</span>
+</span>
+</a>
+<a style="padding-left:5px;text-decoration:none;" onclick="window.open(this.href);return false" title="Collegamento alla pagina Twitter del Ministero della Salute. Apre una nuova pagina." href="https://twitter.com/ministerosalute">
+<span class="fab fa-twitter">
+<span style="color:transparent;font-size:0px;">.</span>
+</span>
+</a>
+<a style="padding-left:5px;text-decoration:none;" onclick="window.open(this.href);return false" title="Collegamento al canale Youtube del Ministero della Salute. Apre una nuova pagina." href="https://www.youtube.com/user/MinisteroSalute">
+<span class="fab fa-youtube">
+<span style="color:transparent;font-size:0px;">.</span>
+</span>
+</a>
+<a style="padding-left:5px;text-decoration:none;" onclick="window.open(this.href);return false" title="Collegamento alla pagina Instagram del Ministero della Salute. Apre una nuova pagina." href="https://www.instagram.com/ministerosalute">
+<span class="fab fa-instagram">
+<span style="color:transparent;font-size:0px;">.</span>
+</span>
+</a>
+<br/>
+</span>
+<form id="search-bar" action="http://cerca.ministerosalute.it/search" method="get">
+<fieldset><!--googleoff: all-->
+<legend class="hidden">Form di ricerca nel sito, campo Cerca obbligatorio</legend><!--googleon: all-->
+<label class="hidden" for="f_cerca">Cerca</label>
+<input style="margin-top: 5px;" placeholder="Cerca" class="rest-searchbox ui-autocomplete-input" title="Cerca" type="text" name="q" tabindex="3" id="f_cerca"/>
+<input value="generico_front-end" name="client" type="hidden"/>
+<input value="nuovocoronavirus_front-end" name="proxystylesheet" type="hidden"/>
+<input value="nuovocoronavirus" name="site" type="hidden"/>
+<input value="xml_no_dtd" name="output" type="hidden"/>
+<input value="p" name="filter" type="hidden"/>
+<button style="margin-top:-5px;height:30px;" class="btn-s btn-default-s btn-sm" type="submit">
+<span style="top:0px;left: 9px;" class="glyphicon glyphicon-search">
+<span style="color:transparent;font-size:1px;">.</span>
+</span>
+</button>
+</fieldset>
+</form>
+</div>
+<div style="margin-top:0.5em;text-align:right;" id="cercaMobile">
+<form id="search-bar-mobile" action="http://cerca.ministerosalute.it/search" method="get">
+<fieldset><!--googleoff: all-->
+<legend class="hidden">Form di ricerca nel sito, campo Cerca obbligatorio</legend><!--googleon: all-->
+<input value="generico_front-end" name="client" type="hidden"/>
+<input value="nuovocoronavirus_front-end" name="proxystylesheet" type="hidden"/>
+<input value="nuovocoronavirus" name="site" type="hidden"/>
+<input value="xml_no_dtd" name="output" type="hidden"/>
+<input value="p" name="filter" type="hidden"/>
+<button style="margin-top:-5px;height:30px;" class="btn-s btn-default-s btn-sm" type="submit">
+<span style="top:0px;left: 9px;" class="glyphicon glyphicon-search">
+<span style="color:transparent;font-size:1px;">.</span>
+</span>
+</button>
+</fieldset>
+</form>
+</div>
+</div>
+</div>
+</header>
+<div class="row row-offcanvas row-offcanvas-left">
+<div id="sidebar" class="col-md-4 sidebar-offcanvas">
+<nav data-offset-bottom="250" data-offset-top="0" data-spy="_affix" tabindex="0" id="menu" class="hidden-print">
+<h3 class="sr-only">Menu di navigazione del sito</h3>
+<ul class="nav navgoco">
+<li>
+<a href="http://www.salute.gov.it/nuovocoronavirus">Home</a>
+</li>
+<li>
+<a href="#">News e Media</a>
+<ul>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/archivioNotizieNuovoCoronavirus.jsp">Notizie</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/archivioComunicatiNuovoCoronavirus.jsp">Comunicati</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it//portale/nuovocoronavirus/archivioCampagneNuovoCoronavirus.jsp">Campagne di comunicazione</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it//portale/nuovocoronavirus/archivioVideoNuovoCoronavirus.jsp">Video</a>
+</li>
+<li>
+<a href="/portale/nuovocoronavirus/archivioMaterialiNuovoCoronavirus.jsp">Materiali social</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="#">Argomenti</a>
+<ul>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5337&amp;area=nuovoCoronavirus&amp;menu=vuoto">Nuovo Coronavirus Covid-19</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5338&amp;area=nuovoCoronavirus&amp;menu=vuoto">Covid-19 - Situazione nel mondo</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5351&amp;area=nuovoCoronavirus&amp;menu=vuoto">Covid-19 - Situazione in Italia</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5339&amp;area=nuovoCoronavirus&amp;menu=vuoto">Task force Covid-19</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5372&amp;area=nuovoCoronavirus&amp;menu=vuoto">Glossario del nuovo Coronavirus</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5376&amp;area=nuovoCoronavirus&amp;menu=vuoto">Proteggi te stesso e gli altri dal coronavirus</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5373&amp;area=nuovoCoronavirus&amp;menu=vuoto">Covid-19 - Raccomandazioni per gli operatori sanitari</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5383&amp;area=nuovoCoronavirus&amp;menu=vuoto">Covid-19 - Sicurezza dei lavoratori</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5342&amp;area=nuovoCoronavirus&amp;menu=vuoto">Numero di pubblica utilit&agrave; 1500</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5364&amp;area=nuovoCoronavirus&amp;menu=vuoto">Covid-19 - Numeri verdi regionali</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioFaqNuovoCoronavirus.jsp?lingua=italiano&amp;id=228">
+								FAQ - Covid-19, domande e risposte
+							</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/archivioNormativaNuovoCoronavirus.jsp">Norme, circolari e ordinanze</a>
+</li>
+<li>
+<a href="http://www.salute.gov.it/portale/nuovocoronavirus/archivioOpuscoliNuovoCoronavirus.jsp">Poster e infografiche</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<div id="intestazioneContenuto" class="row">
+<div style="margin-top:2em;">
+<a title="Collegamento alla Home page" href="/portale/nuovocoronavirus/homeNuovoCoronavirus.html">Home</a> / Covid-19 - Situazione nel mondo</div>
+<div style="padding-left:10px;padding-right:10px;" class="col-md-8">
+<h3 class="blu-italia-base-color">Covid-19 - Situazione nel mondo</h3>
+<div style="padding-top: 10px;" class="tab-content">
+<div style="margin-top:30px;">
+</div>
+</div>
+<div style="clear:both;">
+<br/>
+</div>
+<img title="Immagine della distribuzione dei casi di Covid-19" alt="Immagine della distribuzione dei casi di Covid-19" src="/imgs/C_17_pagineAree_5338_0_immagine.jpg"/>
+<p>
+<br/>
+</p>
+            <p>
+	Il 31 dicembre 2019 la Commissione Sanitaria Municipale di Wuhan (Cina) ha segnalato all’Organizzazione Mondiale della Sanità&#160;un cluster di casi di polmonite ad eziologia ignota nella città di Wuhan, nella provincia cinese di Hubei. Il 9 gennaio 2020, il CDC cinese ha riferito che è stato identificato un <a href="/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5337&amp;area=nuovoCoronavirus&amp;menu=vuoto">nuovo coronavirus</a> (SARS-CoV-2) come agente causale della malattia respiratoria poi denominata Covid-19. La Cina ha reso immediatamente pubblica la sequenza genomica che ha permesso la realizzazione di un test diagnostico in modo tempestivo.
+</p>
+
+<h4>
+	<strong>Situazione internazionale</strong>
+</h4>
+
+<p>
+	(Ultimi dati OMS. Fonte: Health Emergency Dashboard, 24 Marzo, ore 18)
+</p>
+
+<h4>
+	Globale
+</h4>
+
+<ul>
+	<li>
+		<strong>375.498&#160;</strong>casi confermati<strong> </strong>nel mondo dall'inizio dell'epidemia*
+	</li>
+	<li>
+		<strong>16.362&#160;</strong>morti
+	</li>
+	<li>
+		<b>195</b>&#160;Paesi o regioni
+	</li>
+</ul>
+
+<h4>
+	Cina
+</h4>
+
+<ul>
+	<li>
+		<b>81.767&#160;</b>casi confermati clinicamente e in laboratorio
+	</li>
+	<li>
+		<strong>3.283&#160;</strong>morti
+	</li>
+</ul>
+
+<h4>
+	Altri Paesi
+</h4>
+
+<ul>
+	<li>
+		<b>293.731&#160;</b>casi
+	</li>
+	<li>
+		<b>13.079&#160;</b>morti
+	</li>
+</ul>
+
+<h4>
+	Europa
+</h4>
+
+<p>
+	(Ultimi dati OMS, inclusa <a href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5351&amp;area=nuovoCoronavirus&amp;menu=vuoto" onclick="window.open(this.href); return false;" title="situazione Italia"><font color="#0066cc">Italia</font></a><b>, </b>fonte Dashboard Who European Region, 25 marzo, ore 10)
+</p>
+
+<ul>
+	<li>
+		<b>220.785 </b>casi confermati
+	</li>
+	<li>
+		<b>11.987 </b>morti​
+	</li>
+</ul>
+
+<p>
+	<strong>Primi cinque Paesi per trasmissione locale in Europa</strong>
+</p>
+
+<ul>
+	<li>
+		<strong>Italia </strong>69.176 casi, 6820 morti
+	</li>
+	<li>
+		<strong>Spagna&#160;</strong>39.673<strong> </strong>casi,&#160;2696 morti
+	</li>
+	<li>
+		<strong>Germania</strong>&#160;31.584 casi, 149 morti
+	</li>
+	<li>
+		<strong>Francia </strong>22.302 casi, 1.100 morti
+	</li>
+	<li>
+		<strong>Svizzera</strong> 8789 casi, 86 morti
+	</li>
+	<li>
+		<strong>(Regno Unito </strong>8077 casi, 422 morti)
+	</li>
+</ul>
+
+<h4>
+	<strong>Link e mappe</strong>
+</h4>
+
+<p>
+	Consulta l'andamento dei casi nelle pagine web delle due principali agenzie internazionali (In inglese):
+</p>
+
+<ul>
+	<li>
+		<a href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd" onclick="window.open(this.href); return false;" title="OMS DASHBOARD">OMS Dashboard</a>&#160;globale
+	</li>
+	<li>
+		<a href="https://who.maps.arcgis.com/apps/opsdashboard/index.html#/ead3c6475654481ca51c248d52ab9c61" onclick="window.open(this.href); return false;" title="apre dashboard europa">OMS Dashboard Europa</a>
+	</li>
+	<li>
+		<a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports" title="Apre sito Oms">OMS - Situation report</a>
+	</li>
+	<li>
+		<a href="https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html" onclick="window.open(this.href); return false;" title="va al sito ecdc">ECDC - COVID-19</a>
+	</li>
+	<li>
+		<a href="https://www.ecdc.europa.eu/en/current-risk-assessment-novel-coronavirus-situation" onclick="window.open(this.href); return false;" title="apre sito ECDC">ECDC - Aggiornamenti valutazione del rischio</a>
+	</li>
+</ul>
+
+<p>
+	<strong>Vedi anche</strong>
+</p>
+
+<ul>
+	<li>
+		<a href="/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5351&amp;area=nuovoCoronavirus&amp;menu=vuoto"><font color="#0066cc">Situazione in Italia</font></a>
+	</li>
+</ul>
+
+<h4>
+	<strong>Valutazione del rischio OMS </strong>
+</h4>
+
+<p>
+	Il 30 gennaio l'OMS ha dichiarato l'epidemia di Coronavirus in Cina Emergenza internazionale di salute pubblica.
+</p>
+
+<p>
+	L'OMS ha elevato la minaccia per l'epidemia di coronavirus al livello mondiale&#160;a livello "<strong>molto alto</strong>" il 28 febbraio 2020.
+</p>
+
+<p>
+	L'11 marzo 2020 il direttore generale dell'OMS Tedros Adhanom Ghebreyesus ha definito la diffusione del Covid-19 non più una epidemia confinata ad alcune zone geografiche, ma una<strong> pandemia </strong>diffusa in tutto il pianeta.
+</p>
+
+<p>
+	Il 13 marzo l'OMS ha dichiarato che l'Europa sta diventando il nuovo epicentro della pandemia.
+</p>
+
+<h4>
+	<b>Valutazione del rischio ECDC (aggiornamento al 13 marzo)</b>
+</h4>
+
+<p>
+	Il rischio di malattia grave associata all'infezione COVID-19 per le persone in Europa (UE/SEE e Regno Unito)&#160; è attualmente considerato <strong>moderato</strong> per la popolazione generale e&#160;<b>&#160;alto</b> per gli anziani e le persone con malattie croniche di base.&#160; Inoltre, il rischio di malattie più lievi e il conseguente impatto sull'attività&#160;sociale e lavorativa sono&#160; considerati <strong>elevati</strong>.
+</p>
+
+<p>
+	Il numero di casi COVID-19 è aumentato molto rapidamente, il rischio di insorgenza di cluster, simili a quelli in Italia, associati a COVID-19 in altri Paesi europei è considerato <strong>molto elevato</strong>.
+</p>
+
+<p>
+	Il rischio di insorgenza di una trasmissione diffusa in Paesi europei nelle prossime settimane è&#160;<strong>elevato.</strong>
+</p>
+
+<p>
+	Il rischio di&#160; superare la capacità di risposta dei sistemi sanitari nei Paesi europei nelle prossime settimane è <strong>elevato</strong>.
+</p>
+
+<p>
+	Oltre all'impatto sulla salute pubblica con esiti fatali sostanziali in gruppi ad alto rischio, i focolai di COVID-19 possono causare enormi perturbazioni economiche e sociali.
+</p>
+
+<p style="padding-top: 20px;">
+	Covid-19, distribuzione dei casi nel mondo (fonte ECDC)*<br />
+	<span style="font-size: 12px;">*Dal 13/02/2020 il numero dei casi notificati dalla Cina include tutti i casi sospetti con una diagnosi clinica di polmonite, non soltanto casi confermati in laboratorio di Covid-19</span>
+</p>
+         
+<img title="Distribuzione dei casi confermati di Covid-19 in tutto il mondo" alt="Distribuzione dei casi confermati di Covid-19 in tutto il mondo" src="/imgs/C_17_pagineAree_5338_0_immagineAggiuntiva.jpg"/>
+<p>
+<br/>
+</p>
+            <h4>
+	Link
+</h4>
+
+<p>
+	Consulta l'andamento dei casi e la valutazione del rischio nelle pagine web dell'ECDC (In inglese):
+</p>
+
+<p>
+	<a href="http://www.ecdc.europa.eu/en/cases-2019-ncov-eueea">ECDC – Situazione in Europa</a>
+</p>
+
+<p>
+	<a href="http://www.ecdc.europa.eu/en/current-risk-assessment-novel-coronavirus-situation">ECDC – Aggiornamenti valutazione del rischio</a>
+</p>
+
+<p>
+	<br />
+</p>
+
+<p>
+	<br />
+</p>
+         
+<p>
+<br/>
+</p>
+<p>
+<br/>
+</p>
+<p>
+								 
+								 Data ultimo aggiornamento: 
+								<strong>25&nbsp;marzo&nbsp;2020</strong>
+</p>
+<p>
+<br/>
+</p>
+<p>
+<br/>
+</p>
+</div>
+<div class="col-md-4">
+<h4 style="margin-top:38.5px;" class="lower-arrow">Condividi</h4>
+
+      
+
+<script type="text/javascript">
+<!-- //	
+
+
+
+
+var contextPath = "http://www.salute.gov.it/portale/resources/ranking/Vote.jsp";
+
+	
+function impostaVoto(vote) {
+	
+	settaVariabili();
+	
+	$("#sondaggio > .stars > li > a").css('background-position', 'left top');
+    document.forms["sondaggio"].vote.value = vote;
+    $("#sondaggio > .stars > li:lt("+vote+") > a").css('background-position', 'left bottom');
+    
+}
+
+function impostaImgOut() {
+	if(document.forms["sondaggio"].vote.value == 0) {
+		window.document.stelle.src  = "/portale/img/condivisioni/stelline_0.png";
+	} else {
+		window.document.stelle.src  = "/portale/img/stelline_"+document.forms["sondaggio"].vote.value+".png";
+	}
+}
+
+
+function writeCookie(nomeCookie,valoreCookie,durataCookie) {   
+	var scadenza = new Date();
+	var adesso = new Date();
+	scadenza.setTime(adesso.getTime() + (parseInt(durataCookie) * 60000));
+	if (document.cookie.length > 0) {
+		var inizio = document.cookie.indexOf(nomeCookie + '=');       
+		if (inizio != -1) {
+			inizio = inizio + nomeCookie.length + 1;   		
+			var fine = document.cookie.indexOf(';',inizio);   		
+			if (fine == -1) {
+				fine = document.cookie.length;
+			}            
+			valueInCookie = unescape(document.cookie.substring(inizio,fine));       
+			document.cookie = nomeCookie + '=' + escape(valueInCookie + valoreCookie + ',') + '; expires=' + scadenza.toGMTString() + '; path=/';
+		} else {
+			document.cookie = nomeCookie + '=' + escape(valoreCookie+',') + '; expires=' + scadenza.toGMTString() + '; path=/';   
+		}      
+
+	} else {        
+		document.cookie = nomeCookie + '=' + escape(valoreCookie+',') + '; expires=' + scadenza.toGMTString() + '; path=/';
+	}
+}
+
+function existCookie(nomeCookie,valueCookie) {    
+	if (document.cookie.length > 0) {
+		var inizio = document.cookie.indexOf(nomeCookie + '=');       
+		if (inizio != -1) {   		
+			inizio = inizio + nomeCookie.length + 1;
+			var fine = document.cookie.indexOf(';',inizio);
+			if (fine == -1) {
+				fine = document.cookie.length;
+			}
+			var valueInCookie = unescape(document.cookie.substring(inizio,fine));
+			tokens  = valueInCookie.split(',');
+			for(i=0; i != tokens.length-1; i++) {
+				if((tokens[i]) == valueCookie) {
+					return true;
+				}
+			}
+			return false;
+		}
+	} else {
+			return false;
+    }
+}
+
+function controlla(){
+	checkedVote = false;
+	     
+	if(document.forms["sondaggio"].vote.value != 0) {
+		checkedVote = true;
+		if(existCookie(document.forms["sondaggio"].nameCookie.value, document.forms["sondaggio"].valueCookie.value)) {
+			alert("Hai già espresso un voto per questo sondaggio");
+			           
+		} else {   
+
+			var client = null;
+            if (window.XMLHttpRequest) {
+            	// If IE7, Mozilla, Safari, and so on: Use native object.
+                client = new XMLHttpRequest();
+            }
+            else
+            {
+            	if (window.ActiveXObject) {
+                // ...otherwise, use the ActiveX control for IE5.x and IE6.
+                	client = new ActiveXObject('MSXML2.XMLHTTP.3.0');
+                }
+           }
+
+           
+		   try{
+
+		    	writeCookie(document.forms["sondaggio"].nameCookie.value, document.forms["sondaggio"].valueCookie.value,60);
+		    	
+		    	
+     			client.open("POST", contextPath);
+      			
+      		  	var params =  document.forms["sondaggio"].URIPage.value + '||' +
+							  document.forms["sondaggio"].URISite.value + '||' +
+							  document.forms["sondaggio"].link.value + '||' +
+      						  document.forms["sondaggio"].vote.value;
+
+				
+	     		params = params.replace("à","&agrave;");
+	     		params = params.replace("è","&egrave;");
+	     		params = params.replace("ì","&igrave;");
+	     		params = params.replace("ò","&ograve;");
+	     		params = params.replace("ù","&ugrave;");
+	     		params = params.replace("é","&eacute;"); 
+
+				
+      			client.send(params);
+
+      			
+		    }catch(e){ }
+
+		   	alert("Il tuo contributo è stato acquisito, grazie per aver votato");
+				
+		}
+	}
+
+	if (checkedVote == false) {
+		
+		alert("Inserisci un voto");
+		   
+	}
+} 
+
+function settaVariabili() {
+
+	var titolo = document.title;
+	titolo = titolo.replace("à","&agrave;");
+	titolo = titolo.replace("è","&egrave;");
+	titolo = titolo.replace("ì","&igrave;");
+	titolo = titolo.replace("ò","&ograve;");
+	titolo = titolo.replace("ù","&ugrave;");
+	titolo = titolo.replace("é","&eacute;");
+	
+	var docURL = document.URL;
+	docURL = docURL.replace("à","&agrave;");
+	docURL = docURL.replace("è","&egrave;");
+	docURL = docURL.replace("ì","&igrave;");
+	docURL = docURL.replace("ò","&ograve;");
+	docURL = docURL.replace("ù","&ugrave;");
+	docURL = docURL.replace("é","&eacute;");
+	docURL = docURL.replace("<","");
+	docURL = docURL.replace(">","");
+	docURL = docURL.replace("%3C","");
+	docURL = docURL.replace("%3E","");
+	docURL = docURL.replace("%27","");
+	docURL = docURL.replace("'","");
+	
+	var URISite = document.forms["sondaggio"].URISite.value;
+	URISite = URISite.replace("à","&agrave;");
+	URISite = URISite.replace("è","&egrave;");
+	URISite = URISite.replace("ì","&igrave;");
+	URISite = URISite.replace("ò","&ograve;");
+	URISite = URISite.replace("ù","&ugrave;");
+	URISite = URISite.replace("é","&eacute;");
+	
+	document.forms["sondaggio"].URIPage.value = titolo;
+	document.forms["sondaggio"].link.value = docURL;
+	document.forms["sondaggio"].nameCookie.value = "nsis_rank";
+	
+	document.forms["sondaggio"].valueCookie.value = docURL +"-"+ URISite;
+
+}
+// -->
+</script>
+  
+  
+  
+
+
+
+<script type="text/javascript">
+	function ottieni_url_fb(url) 
+	{ 
+		var titolo = window.document.title;
+		u = location.href;
+		window.open(url+encodeURIComponent(u)+'&amp;t='+encodeURIComponent(titolo));
+		return false; 
+	}
+	function ottieni_url_tw(url) 
+	{ 
+		var titolo = window.document.title;
+		u = location.href;
+		window.open(url+encodeURIComponent(u)+'&amp;text='+encodeURIComponent(titolo));
+		return false; 
+	}
+</script>
+
+
+
+
+
+<!--div class="box_condivisione" id="boxCondivisione"-->
+<div class="box-condivisione-voto" id="boxCondivisioneVoto">
+	<ul style="margin:0;padding:0;list-style:none;display:inline;">
+		<li style="display:inline;">
+			<a href="http://www.facebook.com/sharer.php?u=%3Curl%3E" title="Facebook" onclick="return ottieni_url_fb('http://www.facebook.com/sharer.php?u=')"><img src="/portale/caldo/img/condivisioni/condividi_facebook.png" alt="Facebook" class="img_CENTRALE"/></a>
+
+		</li>
+		<li style="display:inline;">
+			<a href="https://twitter.com/share?url=%3Curl%3E" title="Twitter" onclick="return ottieni_url_tw('https://twitter.com/share?url=')"><img src="/portale/caldo/img/condivisioni/condividi_twitter.png" alt="Twitter" class="img_CENTRALE"/></a>
+		</li>
+		<!--li style="display:inline;">
+			<a href="https://plusone.google.com/_/+1/confirm?hl=it&amp;url=http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano%26id=5338%26area=nuovoCoronavirus%26menu=vuoto" title="Google +" onclick="window.open(this.href);return false"><img src="/portale/caldo/img/condivisioni/condividi_googleplus.png" alt="Google +" class="img_CENTRALE"/></a>
+		</li-->			
+
+		<li style="display:inline;">
+			<a tabindex="55" title="Stampa" href="javascript:print();"><img alt="Stampa" src="/portale/caldo/img/condivisioni/stampa.png" class="img_CENTRALE" /></a>
+		</li>
+
+		<li style="display:inline;">
+			<a tabindex="55" title="Invia email" href="mailto:?subject=Consiglio&amp;body=Ti%20inoltro%20questo%20link%20dal%20sito%20www.salute.gov.it%3A%0A%0Ahttp://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano%26id=5338%26area=nuovoCoronavirus%26menu=vuoto"><img alt="Invia email" src="/portale/caldo/img/condivisioni/invia_email.png" class="img_CENTRALE" /></a>
+		</li>
+
+	</ul>
+</div>
+<h4 style="margin-top:38.5px;" class="lower-arrow">Tag associati a questa pagina</h4>
+<ul>
+<li>
+<a onclick="window.open(this.href);return false" title="Coronavirus. Apre una nuova pagina." href="/portale/temi/p2_2_0.jsp?lingua=italiano&amp;id=1285">Coronavirus</a>&nbsp;&nbsp; </li>
+<li>
+<a onclick="window.open(this.href);return false" title="Malattie infettive. Apre una nuova pagina." href="/portale/temi/p2_2_0.jsp?lingua=italiano&amp;id=779">Malattie infettive</a>&nbsp;&nbsp; </li>
+<li>
+<a onclick="window.open(this.href);return false" title="Prevenzione. Apre una nuova pagina." href="/portale/temi/p2_2_0.jsp?lingua=italiano&amp;id=786">Prevenzione</a>
+</li>
+</ul>
+<div style="width:100%;background-color:#0066CC;border: 2px solid #fff;color:#fff;margin-top:1.7em;text-align:center;padding-top:20px;padding-bottom:20px;">
+<a href="/portale/nuovocoronavirus/dettaglioFaqNuovoCoronavirus.jsp?lingua=italiano&amp;id=228" style="color:#fff;font-size:20px;">
+							Domande e risposte
+						</a>
+</div>
+<div style="width:100%;background-color:#0066CC;border: 2px solid #fff;color:#fff;margin-top:1.7em;text-align:center;padding-top:20px;padding-bottom:20px;">
+<a href="/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5364&amp;area=nuovoCoronavirus&amp;menu=vuoto" style="color:#fff;font-size:20px;">
+								Numeri verdi regionali
+							</a>
+</div>
+<div style="width:100%;background-color:#0066CC;border: 2px solid #fff;color:#fff;margin-top:1.7em;text-align:center;padding-top:20px;padding-bottom:20px;">
+<a href="/portale/nuovocoronavirus/archivioMaterialiNuovoCoronavirus.jsp" style="color:#fff;font-size:20px;">
+							Materiali Social
+						</a>
+</div>
+<h4 style="margin-top:38.5px;" class="lower-arrow">Mappe</h4>
+<ul>
+<li>
+<a onclick="window.open(this.href);return false" title="Collegamento esterno alla pagina COVID-19 Italia - Monitoraggio della situazione" href="http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/b0c68bce2cce478eaac82fe38d4138b1">Mappa dell'Italia</a>
+</li>
+<li>
+<a onclick="window.open(this.href);return false" title="Collegamento esterno alla pagina COVID-19 Italia - Monitoraggio della situazione - Versione mobile" href="http://opendatadpc.maps.arcgis.com/apps/opsdashboard/index.html#/dae18c330e8e4093bb090ab0aa2b4892">Mappa dell'Italia - Versione mobile</a>
+</li>
+<li>
+<a onclick="window.open(this.href);return false" title="Collegamento esterno alla pagina COVID-19 Mondo - Monitoraggio della situazione" href="https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd">Mappa del mondo</a>
+</li>
+</ul>
+<p>
+<br/>
+</p>
+<h4 style="margin-top:38.5px;" class="lower-arrow">Notizie</h4>
+<ul>
+<li>
+<span style="font-weight:bold;font-size: 16px;" class="date">25&nbsp;marzo&nbsp;2020</span> - <a title="Collegamento alla notizia" href="/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&amp;menu=notizie&amp;p=dalministero&amp;id=4313">Covid-19, dalla suola delle scarpe alle zampe degli animali, le risposte dell’ISS ai quesiti dei cittadini sulle modalità di contagio</a>
+</li>
+<li>
+<span style="font-weight:bold;font-size: 16px;" class="date">25&nbsp;marzo&nbsp;2020</span> - <a title="Collegamento alla notizia" href="/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&amp;menu=notizie&amp;p=dalministero&amp;id=4319">Covid-19, attività fisica per gli adolescenti a casa</a>
+</li>
+<li>
+<span style="font-weight:bold;font-size: 16px;" class="date">25&nbsp;marzo&nbsp;2020</span> - <a title="Collegamento alla notizia" href="/portale/nuovocoronavirus/dettaglioNotizieNuovoCoronavirus.jsp?lingua=italiano&amp;menu=notizie&amp;p=dalministero&amp;id=4320">COVID-19, i consigli dell’ISS in attesa dell’intervento di artroprotesi dell’anca o del ginocchio</a>
+</li>
+</ul>
+<div style="text-align:right;font-weight:bold;text-decoration:underline;">
+<a title="Collegamento all'archivio delle notizie" href="/portale/nuovocoronavirus/archivioNotizieNuovoCoronavirus.jsp">Vedi tutto</a>
+</div>
+<p>
+<br/>
+</p>
+</div>
+</div>
+</div>
+<div style="background-color: #0066CC;">
+<section tabindex="0" id="argomenti" class="container-fluid">
+<div style="background-color:#0066CC;padding-bottom:2em;" class="row">
+<div style="text-align:left;" class="col-md-12">
+<h3 style="color:#fff;font-size:30px;">Argomenti</h3>
+</div>
+<div class="col-md-4 dropdown width-argomenti" style="padding-left:25px;padding-right:25px;">
+<div style="width:100%;background-color:#0066CC;border: 2px solid #fff;color:#fff;margin-top:1em;text-align:center;padding-top:25px;padding-bottom:25px;height:80px;padding-left:10px;padding-right:10px;">
+<a style="color:#fff;font-size:18px;" title="Nuovo Coronavirus Covid-19" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5337&amp;area=nuovoCoronavirus&amp;menu=vuoto">Nuovo Coronavirus Covid-19</a>
+</div>
+</div>
+<div class="col-md-4 dropdown width-argomenti" style="padding-left:25px;padding-right:25px;">
+<div style="width:100%;background-color:#0066CC;border: 2px solid #fff;color:#fff;margin-top:1em;text-align:center;padding-top:25px;padding-bottom:25px;height:80px;padding-left:10px;padding-right:10px;">
+<a style="color:#fff;font-size:18px;" title="Covid-19 - Situazione nel mondo" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5338&amp;area=nuovoCoronavirus&amp;menu=vuoto">Covid-19 - Situazione nel mondo</a>
+</div>
+</div>
+<div class="col-md-4 dropdown width-argomenti" style="padding-left:25px;padding-right:25px;">
+<div style="width:100%;background-color:#0066CC;border: 2px solid #fff;color:#fff;margin-top:1em;text-align:center;padding-top:25px;padding-bottom:25px;height:80px;padding-left:10px;padding-right:10px;">
+<a style="color:#fff;font-size:18px;" title="Covid-19 - Situazione in Italia" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5351&amp;area=nuovoCoronavirus&amp;menu=vuoto">Covid-19 - Situazione in Italia</a>
+</div>
+</div>
+<div class="col-md-4 dropdown width-argomenti" style="padding-left:25px;padding-right:25px;">
+<div style="width:100%;background-color:#0066CC;border: 2px solid #fff;color:#fff;margin-top:1em;text-align:center;padding-top:25px;padding-bottom:25px;height:80px;padding-left:10px;padding-right:10px;">
+<a style="color:#fff;font-size:18px;" title="Task force Covid-19" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5339&amp;area=nuovoCoronavirus&amp;menu=vuoto">Task force Covid-19</a>
+</div>
+</div>
+<div class="col-md-4 dropdown width-argomenti" style="padding-left:25px;padding-right:25px;">
+<div style="width:100%;background-color:#0066CC;border: 2px solid #fff;color:#fff;margin-top:1em;text-align:center;padding-top:25px;padding-bottom:25px;height:80px;padding-left:10px;padding-right:10px;">
+<a style="color:#fff;font-size:18px;" title="Glossario del nuovo Coronavirus" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5372&amp;area=nuovoCoronavirus&amp;menu=vuoto">Glossario del nuovo Coronavirus</a>
+</div>
+</div>
+<div class="col-md-4 dropdown width-argomenti" style="padding-left:25px;padding-right:25px;">
+<div style="width:100%;background-color:#0066CC;border: 2px solid #fff;color:#fff;margin-top:1em;text-align:center;padding-top:25px;padding-bottom:25px;height:80px;padding-left:10px;padding-right:10px;">
+<a style="color:#fff;font-size:18px;" title="Proteggi te stesso e gli altri dal coronavirus" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5376&amp;area=nuovoCoronavirus&amp;menu=vuoto">Proteggi te stesso e gli altri dal coronavirus</a>
+</div>
+</div>
+<div class="col-md-4 dropdown width-argomenti" style="padding-left:25px;padding-right:25px;">
+<div style="width:100%;background-color:#0066CC;border: 2px solid #fff;color:#fff;margin-top:1em;text-align:center;padding-top:25px;padding-bottom:25px;height:80px;padding-left:10px;padding-right:10px;">
+<a style="color:#fff;font-size:18px;" title="Covid-19 - Raccomandazioni per gli operatori sanitari" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5373&amp;area=nuovoCoronavirus&amp;menu=vuoto">Covid-19 - Raccomandazioni per gli operatori sanitari</a>
+</div>
+</div>
+<div class="col-md-4 dropdown width-argomenti" style="padding-left:25px;padding-right:25px;">
+<div style="width:100%;background-color:#0066CC;border: 2px solid #fff;color:#fff;margin-top:1em;text-align:center;padding-top:25px;padding-bottom:25px;height:80px;padding-left:10px;padding-right:10px;">
+<a style="color:#fff;font-size:18px;" title="Covid-19 - Sicurezza dei lavoratori" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5383&amp;area=nuovoCoronavirus&amp;menu=vuoto">Covid-19 - Sicurezza dei lavoratori</a>
+</div>
+</div>
+<a style="color:#fff;font-size:20px;" title="" href="http://www.salute.gov.it/portale/nuovocoronavirus/menuContenutoNuovoCoronavirus.jsp?lingua=italiano&amp;area=nuovoCoronavirus&amp;menu=">
+</a>
+</div>
+</section>
+</div>
+<footer tabindex="0" class="hidden-print" id="footer">
+<div class="container">
+<div class="row">
+<div class="col-md-2">
+<img title="Logo" alt="Logo" src="http://www.salute.gov.it/portale/nuovocoronavirus/images/loghi/stellone.png" class="footer__logo"/>
+</div>
+<div class="col-md-6">
+<p style="font-weight:normal;font-size:27px;" class="footer__title h3">
+					&copy; 2020 - Testata di propriet&agrave; del Ministero della Salute<br/>
+</p>
+</div>
+<div class="col-md-4">
+<div style="margin-top:0.5em;text-align:right;">
+<span style="color:#fff;" id="social-footer">Seguici su:
+							<a style="padding-left:5px;text-decoration:none;" onclick="window.open(this.href);return false" title="Collegamento alla pagina Facebook del Ministero della Salute. Apre una nuova pagina." href="https://www.facebook.com/MinisteroSalute">
+<span class="fab fa-facebook">
+<span style="color:transparent;font-size:0px;">.</span>
+</span>
+</a>
+<a style="padding-left:5px;text-decoration:none;" onclick="window.open(this.href);return false" title="Collegamento alla pagina Twitter del Ministero della Salute. Apre una nuova pagina." href="https://twitter.com/ministerosalute">
+<span class="fab fa-twitter">
+<span style="color:transparent;font-size:0px;">.</span>
+</span>
+</a>
+<a style="padding-left:5px;text-decoration:none;" onclick="window.open(this.href);return false" title="Collegamento al canale Youtube del Ministero della Salute. Apre una nuova pagina." href="https://www.youtube.com/user/MinisteroSalute">
+<span class="fab fa-youtube">
+<span style="color:transparent;font-size:0px;">.</span>
+</span>
+</a>
+<a style="padding-left:5px;text-decoration:none;" onclick="window.open(this.href);return false" title="Collegamento alla pagina Instagram del Ministero della Salute. Apre una nuova pagina." href="https://www.instagram.com/ministerosalute">
+<span class="fab fa-instagram">
+<span style="color:transparent;font-size:0px;">.</span>
+</span>
+</a>
+<br/>
+</span>
+</div>
+</div>
+</div>
+<div class="row">
+<ul class="col-xs-12 footer__links clearfix">
+<li>
+<a title="Mappa" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5343&amp;area=nuovoCoronavirus&amp;menu=vuoto">Mappa</a>
+</li>
+<li>
+<a title="Link" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5344&amp;area=nuovoCoronavirus&amp;menu=vuoto">Link</a>
+</li>
+<li>
+<a title="Credits" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5345&amp;area=nuovoCoronavirus&amp;menu=vuoto">Credits</a>
+</li>
+<li>
+<a title="Note legali" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5185&amp;area=nuovoCoronavirus&amp;menu=vuoto">Note legali</a>
+</li>
+<li>
+<a title="Privacy" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5186&amp;area=nuovoCoronavirus&amp;menu=vuoto">Privacy</a>
+</li>
+<li>
+<a title="Accessibilit&agrave;" href="http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&amp;id=5229&amp;area=nuovoCoronavirus&amp;menu=vuoto">Accessibilit&agrave;</a>
+</li>
+</ul>
+</div>
+</div>
+</footer>
+<a class="scrollto_top sr-only" title="torna all'inizio del contenuto" href="#page_top">
+<span style="color:#036;">.</span>
+</a>
+<p role="alert" class="cookie-message sr-only">Il portale utilizza cookie tecnici, analytics e di terze parti per il corretto funzionamento delle pagine web e per fornire le funzionalit&agrave; di condivisione sui social network e la visualizzazione di media. Per avere maggiori informazioni su tutti i cookie utilizzati, su come disabilitarli o negare il consenso all'utilizzo consulta la policy sulla Privacy. Proseguendo nella navigazione presti il consenso all'uso di tutti i cookie.</p><!-- JAVASCRIPT -->
+<script src="http://www.salute.gov.it/portale/nuovocoronavirus/scripts/combined-ca1b583c71.js" type="text/javascript"></script>
+<script src="http://www.salute.gov.it/portale/js/jquery.flexslider.js" type="text/javascript"></script>
+<script src="http://www.salute.gov.it/portale/nuovocoronavirus/scripts/masonry.pkgd.min.js" type="text/javascript"></script>
+<script src="http://www.salute.gov.it/portale/nuovocoronavirus/scripts/imagesloaded.pkgd.min.js" type="text/javascript"></script>
+
+
+<!-- BEGIN SLIDER -->
+<script type="text/javascript">
+	l = location.href;
+	pagina = l.substr(l.lastIndexOf("/")+1).split(/[?#]/)[0];
+	if (pagina == 'homeNuovoCoronavirus.jsp'){
+		$(window).load(function() {
+			$('.flexslider').flexslider({
+				animation: "slide",
+				animationLoop: false,
+				slideshow: false,
+				itemWidth: 230,
+				itemMargin: 30,
+				controlNav: false,
+				directionNav: true,
+				prevText: "Precedente",
+				nextText: "Successivo",
+				move: 1
+			});
+		});
+	} 
+</script> 
+<!-- END SLIDER -->
+
+<!-- BEGIN SLIDER -->
+<script type="text/javascript">
+	l = location.href;
+	pagina = l.substr(l.lastIndexOf("/")+1).split(/[?#]/)[0];
+	if (pagina == 'homeNuovoCoronavirus.html'){
+		$(window).load(function() {
+			$('.flexslider').flexslider({
+				animation: "slide",
+				animationLoop: false,
+				slideshow: false,
+				itemWidth: 230,
+				itemMargin: 30,
+				controlNav: false,
+				directionNav: true,
+				prevText: "Precedente",
+				nextText: "Successivo",
+				move: 1
+			});
+		});
+	} 
+</script> 
+<!-- END SLIDER -->
+
+<!-- BEGIN SLIDER -->
+<script type="text/javascript">
+	l = location.href;
+	pagina = l.substr(l.lastIndexOf("/")+1).split(/[?#]/)[0];
+	if (pagina == 'nuovocoronavirus'){
+		$(window).load(function() {
+			$('.flexslider').flexslider({
+				animation: "slide",
+				animationLoop: false,
+				slideshow: false,
+				itemWidth: 230,
+				itemMargin: 30,
+				controlNav: false,
+				directionNav: true,
+				prevText: "Precedente",
+				nextText: "Successivo",
+				move: 1
+			});
+		});
+	} 
+</script> 
+<!-- END SLIDER -->
+
+
+<!-- ********** INIZIO SCRIPT PER RESIZE DELLE MAPPE CLICCABILI ********** -->
+<script src="http://www.salute.gov.it/portale/nuovocoronavirus/js/imageMapResizer.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+<!-- //
+$(document).ready(function() {
+    $('map').imageMapResize();
+});
+// -->
+</script>
+<!-- ********** FINE SCRIPT PER RESIZE DELLE MAPPE CLICCABILI ********** -->
+
+
+<script type="text/javascript">
+//Initialize Masonry inside Bootstrap 3 Tab component 
+
+(function( $ ) {
+
+	var $container = $('.masonry-container');
+	$container.imagesLoaded( function () {
+		$container.masonry({
+			columnWidth: '.item',
+			itemSelector: '.item'
+		});
+	});
+	
+})(jQuery);
+</script>
+
+
+<!-- TEST COOKIE POLICY -->
+<script src="http://www.salute.gov.it/portale/js/js.cookie.js" type="text/javascript"></script>
+<!-- TEST COOKIE POLICY BEGIN -->
+<script type="text/javascript">
+<!-- //
+	var privacy_displayed = false;
+
+	var scrollPrivacyHandler = function() {
+		if (privacy_displayed) {
+			setPrivacy();
+		}
+	};
+
+	function setPrivacy () {
+		$.cookie("pr_cy", 1, { expires: 365, path: '/', domain: '.salute.gov.it' });
+		$('#cookiepolicy').remove();
+		$(window).off("scroll", scrollPrivacyHandler);
+	}
+
+	function findParentId (el, var_id) {
+		if (el.id == var_id) {
+			return el;
+		}
+
+		while (el.parentNode) {
+			el = el.parentNode;
+			if (el.id == var_id) {
+				return el;
+			}
+		}
+		return null;
+	}
+	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+		console.log('Browser mobile');
+		$(document).on('ready', function() {
+			if ($.cookie("pr_cy") != 1) {
+				$('<div id="cookiepolicy" style="background-color:#EE8704;font-size:1.6rem;color:#000000;position:fixed;bottom:0;top:auto;width:100%;z-index:10000"><div style="width:auto;height:auto;margin-left:auto;margin-right: auto;padding-left: 10px;"><div style="width: 100%;float: left;padding-right: 24px;">Il portale utilizza cookie tecnici, analytics e di terze parti. Per avere maggiori informazioni su tutti i cookie utilizzati, su come disabilitarli o negare il consenso all&#39 utilizzo consulta la policy sulla <a href="http://www.salute.gov.it/portale/p5_0.jsp?id=51">Privacy</a><br />Proseguendo nella navigazione presti il consenso all&#39;uso di tutti i cookie.<br /><br /><a href="javascript:void(0);" onclick="setPrivacy();" class="button-large3"><b>Ho capito</b></a></div></div></div></div>').appendTo("body");
+			}
+		});
+	}
+// -->
+</script>
+<!-- TEST COOKIE POLICY END -->
+
+<!-- inizio codice analytcs -->
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38402058-42', 'auto');
+  ga('set', 'anonymizeIp', true);ga('send', 'pageview');
+
+</script>
+<!-- fine codice analytcs --></body>
+</html>
+?
