@@ -1,9 +1,16 @@
 package Internet;
 
-import java.net.*;
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URL;
+import java.sql.Date;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 
-public class Prova {
+public class Covid {
 	public static void main(String[] args) {
 
 		try {
@@ -12,20 +19,20 @@ public class Prova {
 					"http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5338&area=nuovoCoronavirus&menu=vuoto");
 
 			BufferedReader reader = new BufferedReader(new InputStreamReader(cg.openStream()));
-			BufferedWriter writer = new BufferedWriter(new FileWriter("prova.txt"));
+			BufferedWriter writer = new BufferedWriter(new FileWriter("covid-19.txt"));
 
 			int i = 1;
 			String inputLine;
-			String compassione;
+			int prova;
+			
+			Date date = new Date(System.currentTimeMillis());
+			
 			while ((inputLine = reader.readLine()) != null) {
-				System.out.println(inputLine + i);
-				System.out.println();
-				String prova = inputLine;
-				String prova1 = prova.substring(1, 2);
+		
 				if (i == 310) {
 					String outputLine = inputLine.substring(26, 32);
-					System.out.println(outputLine);
-					writer.write(outputLine);
+					System.out.println(date + "  ---- ----  " + outputLine);
+					writer.write(date + "  ---- ----  " + outputLine);
 				}
 				i++;
 			}
@@ -37,9 +44,5 @@ public class Prova {
 			System.out.println(e);
 		}
 	}
-	public static String removeCh (String s , int index) {
-		if ((index > s.length()-1) || (index < 0)) return null;
-		String c = s.substring(0,index) + s.substring(index+1 , s.length());
-		return c;
-		}
+
 }

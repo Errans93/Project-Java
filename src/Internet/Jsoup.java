@@ -4,9 +4,6 @@ import java.io.*;
 
 import java.net.URL;
 public class Jsoup {
-	
-
-	
 
 	    private String url;
 
