@@ -16,14 +16,11 @@ public class Prova {
 
 			int i = 1;
 			String inputLine;
-			String compassione;
 			while ((inputLine = reader.readLine()) != null) {
 				System.out.println(inputLine + i);
-				System.out.println();
-				String prova = inputLine;
-				String prova1 = prova.substring(1, 2);
-				if (i == 310) {
-					String outputLine = inputLine.substring(26, 32);
+
+				if (i == 320) {
+					String outputLine = inputLine.substring(26,32 );
 					System.out.println(outputLine);
 					writer.write(outputLine);
 				}

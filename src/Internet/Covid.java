@@ -23,13 +23,13 @@ public class Covid {
 
 			int i = 1;
 			String inputLine;
-			int prova;
+			
 			
 			Date date = new Date(System.currentTimeMillis());
 			
 			while ((inputLine = reader.readLine()) != null) {
 		
-				if (i == 310) {
+				if (i == 320) {
 					String outputLine = inputLine.substring(26, 32);
 					System.out.println(date + "  ---- ----  " + outputLine);
 					writer.write(date + "  ---- ----  " + outputLine);
