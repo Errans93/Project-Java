@@ -15,25 +15,60 @@ public class Prova3 {
 		try {
 
 			URL pagina = new URL(
-					"https://github.com/pcm-dpc/COVID-19/blob/master/schede-riepilogative/regioni/dpc-covid19-ita-scheda-regioni-20200327.pdf");
+					"http://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=italiano&id=5338&area=nuovoCoronavirus&menu=vuoto");
 
 			BufferedReader reader = new BufferedReader(new InputStreamReader(pagina.openStream()));
 			BufferedWriter writer = new BufferedWriter(new FileWriter("prova_3.txt"));
-			ArrayList<String> righe = new ArrayList<String>();
-			Date date = new Date(System.currentTimeMillis());
+			// Date date = new Date(System.currentTimeMillis());
+			List<String> list = new LinkedList<String>();
 
 			int i = 1;
 			String inputLine;
-			int prova;
 
 			while ((inputLine = reader.readLine()) != null) {
 
-				righe.add(inputLine);
-				
-				writer.write(inputLine);
-				System.out.println(inputLine);
+				StringTokenizer st = new StringTokenizer(inputLine, " ");
+
+				while (st.hasMoreTokens()) {
+
+					String str = st.nextToken();
+					list.add(str);
+					list.add("\n");
+
+					writer.write(str);
+					writer.write("\n");
+				}
+
 				i++;
 			}
+
+			System.out.println(list.size());
+
+			List<String> sub = list.subList(1950, 2000);
+
+			//System.out.println(sub);
+			boolean flag = true;
+			int j = 0;
+			do {
+				
+				
+				StringTokenizer st = new StringTokenizer(sub.get(j), "#");
+
+				while (st.hasMoreTokens()) {
+
+					String str = st.nextToken();
+					
+					System.out.println(str);
+				}
+				if (j == 49) {
+					
+					flag = false;
+					
+				}
+				j++;
+			
+			} while(flag);
+
 			reader.close();
 			writer.close();
 
@@ -43,7 +78,9 @@ public class Prova3 {
 		}
 	}
 
-	public class Riga {
-
+	private static char[] next(StringTokenizer st) {
+		// TODO Auto-generated method stub
+		return null;
 	}
+
 }

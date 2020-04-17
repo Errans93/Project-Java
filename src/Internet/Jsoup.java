@@ -1,32 +1,29 @@
 package Internet;
+
 import java.io.*;
-
-
+import java.util.Scanner;
 import java.net.URL;
+
 public class Jsoup {
 
-	    private String url;
+	public static void main(String[] args) throws Exception {
 
-	    public Jsoup(String url) {
-	        this.url = url;
-	    }
+		Scanner input = new Scanner(System.in);
+		System.out.println("Inserisci qui il tuo numero");
 
-	    public String read() throws Exception {
-	        StringBuilder sb = new StringBuilder();
-	        URL u = new URL(this.url);
-	        InputStreamReader in = new InputStreamReader(u.openStream());
-	        BufferedReader buf = new BufferedReader(in);
-	        String line;
-	        while ((line = buf.readLine()) != null) {
-	            sb.append(line);
-	        }
-	        return sb.toString();
-	    }
-
-	    public static void main(String[] args) throws Exception {
-	    	Jsoup rd = new Jsoup("https://www.sudoku-it.com/");
-	        System.out.println(rd.read());
-	    }
+		int numero = input.nextInt();
+		
+		int primo = 0;
+		int secondo = 1;
+		int terzo = 0;
+		System.out.print(terzo + " " + secondo + " ");
+		
+		for ( int i = 2 ; i <= numero ; i ++) {
+			terzo = primo + secondo;
+			primo = secondo;
+			secondo = terzo;
+			
+			System.out.print(terzo + " ");
+		}
 	}
-
-
+}
