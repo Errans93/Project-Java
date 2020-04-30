@@ -28,7 +28,7 @@ public class Covid {
 			String inputLine;
 
 			while ((inputLine = reader.readLine()) != null) {
-				StringTokenizer st = new StringTokenizer(inputLine, " ");
+				StringTokenizer st = new StringTokenizer(inputLine, "		<strong>Italia");
 
 				while (st.hasMoreTokens()) {
 

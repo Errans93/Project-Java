@@ -13,7 +13,7 @@ public class SudokuSolve {
 
 	// metodo per il quale riesco a inserire i dati nel mio array di partenza
 	// sudoku[][]
-	public static SudokuSolve enterSudokuData(Scanner scan, int n) {
+	public static void enterSudokuData(Scanner scan, int n) {
 		System.out.println("Inserisci i dati del sudoku (dove non conosci il dato metti 0):");
 		System.out.println("");
 		for (int i = 0; i <= n; i++) {
@@ -32,7 +32,6 @@ public class SudokuSolve {
 			}
 
 		}
-		return null;
 	}
 
 //metodo per il quale riesco a stampare tutto il sudoku di partenza
