@@ -1,7 +1,6 @@
-package Primitivi;
+package p002_Primitivi;
 
-public class Primitivi {
-
+public class C01_Primitivi {
 	public static void main(String[] args) {
 		boolean flag = false;
 		System.out.println("boolean [1 bit]: " + flag);
@@ -34,4 +33,5 @@ public class Primitivi {
 		double d = 3.12e200;
 		System.out.println("double [8 byte]: " + d);
 	}
+
 }

@@ -1,4 +1,4 @@
-package Variabili;
+package p001_Variabili;
 
 //Inquesto esempio alcune variabili sono state inizializzate nella dichiarazione.
 //--> Le variabili hanno tipo  double 
@@ -9,8 +9,9 @@ package Variabili;
 //utilizzare il modificatore "final"..ì Questo modificatore trasforma 
 //la variabile in costante.
 
-public class Interessi {
 
+public class C03_Interessi {
+	
 	public static void main(String[] args) {
 
 		double capitale = 1000;
@@ -34,4 +35,5 @@ public class Interessi {
 		System.out.print(capitale);
 
 	}
+
 }

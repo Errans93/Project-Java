@@ -1,11 +1,11 @@
-package Variabili;
+package p001_Variabili;
 
 //Introducendo le variabili base e altezza il programma 
 //risulta essere più chiaro:
 //--> si capisce meglio quale sia la base e quale l'altezza
 //--> si capisce meglio cosa stia calcolando il programma
 
-public class AreaTriangolo2 {
+public class C02_AreaTriangolo2 {
 
 	public static void main(String[] args) {
 

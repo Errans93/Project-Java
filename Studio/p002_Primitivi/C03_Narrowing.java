@@ -1,10 +1,10 @@
-package Primitivi;
+package p002_Primitivi;
 
 //Si può forzare una conversione (type cast) nel modo seguente.
 //La trsformazione (da double a int per es.) è ottenuta troncando
 //il numero --> si eliminano le cifre decimali: 25.99 -> 25.
 
-public class Narrowing {
+public class C03_Narrowing {
 
 	public static void main(String[] args) {
 		double d = 41;

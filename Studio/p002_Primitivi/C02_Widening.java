@@ -1,11 +1,11 @@
-package Primitivi;
+package p002_Primitivi;
 
 //le regole di compatibilità degli assegnamenti consentono di
 //convertire automaticamente byte -> short -> int -> long -> float -> double
 //Ovviamente vale anche byte -> double (la relazione è transitiva)
 
-public class Widening {
-
+public class C02_Widening {
+	
 	public static void main(String[] args) {
 		byte b = 41;
 		short s = b;

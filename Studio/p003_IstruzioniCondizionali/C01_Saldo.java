@@ -1,4 +1,4 @@
-package Istruzioni_condizionali;
+package p003_IstruzioniCondizionali;
 
 import java.util.Scanner;
 
@@ -18,8 +18,8 @@ import java.util.Scanner;
 //quindi l'espressione if - else prende la forma:
 //		if(condizione) {--comandi--} else {--comandi--}
 
-public class Saldo {
-
+public class C01_Saldo {
+	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		double saldo;
