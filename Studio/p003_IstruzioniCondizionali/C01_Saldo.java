@@ -34,6 +34,28 @@ public class C01_Saldo {
 
 		System.out.println();
 		System.out.println("Grazie per avere usato il nostro servizio.");
+		
+		System.out.println();
+		System.out.println("ESEMPIO 2:");
+		System.out.println("Inserisci il saldo del tuo conto corrente:");
+		double saldo1 = input.nextDouble();
+		
+		double tassoAttivo = 2.5;
+		double tassoPassivo = 2;
+		
+		if (saldo1 >= 0) {
+			System.out.println("Il saldo è positivo o zero.");
+			double interesseAttivo = saldo1*tassoAttivo;
+			saldo1 = saldo1 + interesseAttivo;
+		} else {
+			System.out.println("Il saldo è negativo.");
+			double interessePassivo = saldo1*tassoPassivo;
+			saldo1 = saldo1 + interessePassivo;
+		}
+		
+		System.out.println("Nuovo Saldo:");
+		System.out.println(saldo1);
+		System.out.println("Grazie per avere usato il nostro servizio.");
 	}
 
 }
