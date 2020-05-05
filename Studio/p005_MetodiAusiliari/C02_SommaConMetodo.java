@@ -2,7 +2,6 @@ package p005_MetodiAusiliari;
 
 //I metodi posso anche prevedere PARAMETRI
 //ESEMPIO:
-
 //metodo che calcola la somma di due numeri
 
 //metodo che dimostra l'importanza dell'ordine 
@@ -10,12 +9,11 @@ package p005_MetodiAusiliari;
 
 public class C02_SommaConMetodo {
 	public static void main(String[] args) {
+		
 		int a = 5, b = 10;
-		
-		int ris = primo(a, b);
-		
 		System.out.println(somma(a, b));
 		
+		int ris = primo(a, b);
 		System.out.println(ris);
 	}
 
