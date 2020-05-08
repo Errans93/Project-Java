@@ -4,7 +4,7 @@ package p006_ClassiOggetti;
  * Inizializzeremo un array di stringhe con i seguenti valori:
  * "gatto", "cane", "topo", "criceto", "pesce".
  * 
- * Andremo a vedere
+ * Andremo a vedere quale sarà la stringa più lunga
  */
 
 public class C13_StringaPiuLunga {
