@@ -27,9 +27,6 @@ public class C04_ProdottoPotenza {
 			for (int i = 0; i < y; i++) {
 
 				ris = prodotto(x, ris);
-				
-				
-				
 			}
 			System.out.print("La potenza (x^y) è: ");
 			System.out.println(ris);

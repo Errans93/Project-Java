@@ -50,6 +50,19 @@ public class C05_ContoCorrente {
 	 * -->L'incapsulamento consente di gestire un oggetto come una 
 	 * "scatola nera".
 	 * -->dall'esterno si sa COSA fa un oggetto, ma non COME lo fa.
+	 * -->è la possibilità di  controllare l'accesso allo stato degli
+	 * oggetti tramite appositi metodi.
+	 * 
+	 * L'incapsulamento consente di nascondere la rappresentazione 
+	 * dello stato interno degli oggetti agli utilizzatori.
+	 * L'utilizzatore di visualizzaSaldo() non è necessariamente a 
+	 * conoscenza che "saldo" è rappresentato nella classe da una
+	 * variabile di tipo int.
+	 * 
+	 * L'utilizzo della terminologia get e set per i metodi che 
+	 * consentono di accedere a variabili private è una prassi comune:
+	 * getSaldo(), setSaldo();
+	 * 
 	 */
 
 }
