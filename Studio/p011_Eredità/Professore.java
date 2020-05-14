@@ -1,4 +1,27 @@
-package Ereditarietà;
+package p011_Eredità;
+
+/*
+ * Ciò che si può fare ora è di ridefinire le classi Studente
+ * e Professore come fossero estensioni della classe Persona.
+ * Le clssi Studente e Professore erediteranno così i membri
+ * di Persona (senza doverli definire di nuovo) --> Tali membri
+ * saranno definiti una volta sola (in Persona).
+ * 
+ * Per definire una classe come estensione di un altra si deve
+ * usare la primitiva extends --> deve essere usata all'inizio
+ * della definizione della classe.
+ * 
+ * public class Studente extends Persona {
+ * ---
+ * }
+ * 
+ * Terminologia:
+ * 
+ * -->la classe che viene estesa (Persona) è detta SUPERCLASSE
+ * -->la classe che estende (Professore) è detta SOTTOCLASSE
+ * 
+ * Ridefiniamo Professore
+ */
 
 public class Professore extends Persona {
 
@@ -69,4 +92,5 @@ public class Professore extends Persona {
 		 * un metodo della superclasse
 		 */
 	}
+
 }
