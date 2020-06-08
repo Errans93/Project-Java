@@ -15,7 +15,7 @@ public class C01_UsaAccessi {
 		System.out.println(acc.b);
 
 		// Con a non posso fare cosi per accedere al suo valore
-		// poichÈ privata. devo accedere tramite un metodo publlico
+		// poich√® privata. devo accedere tramite un metodo publlico
 		// System.out.println(ac.a); --> Non mi da nulla (come se a non esistesse)
 
 		// stampo a di ac
@@ -27,8 +27,8 @@ public class C01_UsaAccessi {
 		// molto rischioso accedere a variabili statiche con oggetti
 		System.out.println(ac.c);
 		System.out.println(acc.c);
-		// se si modifica c tramite ac, allora la stessa modifica andr‡
-		// a influenzare acc (poichË c appartiene alla classe non all'oggetto)
+		// se si modifica c tramite ac, allora la stessa modifica andr√†
+		// a influenzare acc (poich√® c appartiene alla classe non all'oggetto)
 		ac.c = 19;
 		System.out.println(ac.c);
 		System.out.println(acc.c);

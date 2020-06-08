@@ -23,7 +23,7 @@ package p007_ProgrammazioneOrientOggetti;
  * 
  * Sebbene sua possibile scrivere programmi interessanti con i tipi di
  * dato visti fino ad ora, spesso i programmi hanno bisogno di manipolare 
- * strutture dati che rappresentino più fedelmente le entità del mondo
+ * strutture dati che rappresentino piÃ¹ fedelmente le entitÃ  del mondo
  * reale.
  * Ad esempio pensiamo di dover scrivere programmi per la gestione di:
  * Conti bancari --> ogni conto bancario ha un proprio saldo, un proprio
@@ -34,19 +34,19 @@ package p007_ProgrammazioneOrientOggetti;
  * 				  una posizione nel piano.
  * 
  * Scrivere programmi di questo tipo usando interi,
- * array e stringhe può diventare abbastanza complicato.
- * Da notare che ogni entità del mondo reale (come il conto bancario)
+ * array e stringhe puÃ² diventare abbastanza complicato.
+ * Da notare che ogni entitÃ  del mondo reale (come il conto bancario)
  * prevede un proprio stato interno (come il saldo in questo caso)
- * e delle proprioìe funzionalità (versamento, prelievo..).
+ * e delle proprie funzionalitÃ  (versamento, prelievo..).
  * Per questp motivo il linguaggio di programmazione orientsto agli 
  * oggetti fornisce meccanismi per definire nuovi tipi di dato basati
  * sul concetto di classe.
  * 
  *  Una classe definisce un INSIEME DI OGGETTI (conti bancari, dipendenti,
  *  automobili, rettangoli...).
- *  Un oggetto è una struttura dotata di:
+ *  Un oggetto Ã¨ una struttura dotata di:
  *  -->proprie variabili (che rappresentano il suo stato)
- *  -->propri metodi (che realizzano le sue funzionalità)
+ *  -->propri metodi (che realizzano le sue funzionalitÃ )
  */
 
 public class C01_UsaConto {
@@ -66,9 +66,9 @@ public class C01_UsaConto {
 			cc.preleva(10);
 		} while (cc.saldo >= 41);
 
-		System.out.println("Saldo finale: " + cc.saldo + "€");
+		System.out.println("Saldo finale: " + cc.saldo + "Ã¨");
 		
-		//cc.versa() è un invocazione di un metodo (cc.preleva())
-		//cc.saldo() è la lettura di una variabile
+		//cc.versa() Ã¨ un invocazione di un metodo (cc.preleva())
+		//cc.saldo() Ã¨ la lettura di una variabile
 	}
 }

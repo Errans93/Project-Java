@@ -23,11 +23,11 @@ public class C07_Conversione {
 		
 		String pi = "3.1415";		
 		double piG = Double.parseDouble(pi);
-		System.out.println("Il mio double è: " + piG);
+		System.out.println("Il mio double Ã¨: " + piG);
 		
 		String mil = "10000000";
 		int mill = Integer.parseInt(mil);
-		System.out.println("Il mio int è: " + mill);
+		System.out.println("Il mio int Ã¨: " + mill);
 		
 	}
 

@@ -17,7 +17,7 @@ public class C05_ContoCorrente {
 
 	public void versa(double somma) {
 		saldo += somma;
-		System.out.println("Versati: " + somma + "Ä");
+		System.out.println("Versati: " + somma + "√®");
 	}
 
 	// Restituisce false se non ci sono abbastanza soldi
@@ -29,7 +29,7 @@ public class C05_ContoCorrente {
 			return false;
 		} else {
 			saldo -= somma;
-			System.out.println("Prelevati: " + somma + "Ä");
+			System.out.println("Prelevati: " + somma + "√®");
 		}
 		return true;
 	}
@@ -41,26 +41,26 @@ public class C05_ContoCorrente {
 	
 	/*
 	 * Quest'ultimo metodo consente di accedere al saldo "in lettura".
-	 * In questo modo il valore del saldo Ë sempre sotto controllo
+	 * In questo modo il valore del saldo √® sempre sotto controllo
 	 * dei metodi.
-	 * La propriet‡ per cui i dati che rappresentano
+	 * La propriet√† per cui i dati che rappresentano
 	 * lo stato interno di un oggetto possono essere accessibili
-	 * solo tramite i metodi dell'oggetto stesso Ë detta INCAPSULAMENTO.
+	 * solo tramite i metodi dell'oggetto stesso √® detta INCAPSULAMENTO.
 	 * 
 	 * -->L'incapsulamento consente di gestire un oggetto come una 
 	 * "scatola nera".
 	 * -->dall'esterno si sa COSA fa un oggetto, ma non COME lo fa.
-	 * -->Ë la possibilit‡ di  controllare l'accesso allo stato degli
+	 * -->√® la possibilit√† di  controllare l'accesso allo stato degli
 	 * oggetti tramite appositi metodi.
 	 * 
 	 * L'incapsulamento consente di nascondere la rappresentazione 
 	 * dello stato interno degli oggetti agli utilizzatori.
-	 * L'utilizzatore di visualizzaSaldo() non Ë necessariamente a 
-	 * conoscenza che "saldo" Ë rappresentato nella classe da una
+	 * L'utilizzatore di visualizzaSaldo() non √® necessariamente a 
+	 * conoscenza che "saldo" √® rappresentato nella classe da una
 	 * variabile di tipo int.
 	 * 
 	 * L'utilizzo della terminologia get e set per i metodi che 
-	 * consentono di accedere a variabili private Ë una prassi comune:
+	 * consentono di accedere a variabili private √® una prassi comune:
 	 * getSaldo(), setSaldo();
 	 * 
 	 */

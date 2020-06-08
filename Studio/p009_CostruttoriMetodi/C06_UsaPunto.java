@@ -8,9 +8,9 @@ public class C06_UsaPunto {
 		C06_Punto min = p1.minimo(p2);
 		
 		if (min.equals(p1)) {
-			System.out.println("Il punto minimo è p1");
+			System.out.println("Il punto minimo Ã¨ p1");
 		}else
-			System.out.println("Il punto minimo è p2");
+			System.out.println("Il punto minimo Ã¨ p2");
 	}
 
 }

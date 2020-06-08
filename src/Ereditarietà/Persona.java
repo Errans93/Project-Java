@@ -1,4 +1,4 @@
-package Ereditarietà;
+package EreditarietÃ ;
 
 public class Persona {
 

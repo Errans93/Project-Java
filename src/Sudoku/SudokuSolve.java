@@ -43,7 +43,7 @@ public class SudokuSolve {
 //metodo per il quale riesco a stampare tutto il sudoku di partenza
 	public static void printSudoku(int n) {
 
-		System.out.println("Il sudoku iniziale è: ");
+		System.out.println("Il sudoku iniziale Ã¨: ");
 
 		System.out.println("             -------------------------------------");
 
@@ -74,12 +74,12 @@ public class SudokuSolve {
 
 		if (!backtrackSolve()) {
 
-			System.out.println("Questo sudoku non può essere risolto.");
+			System.out.println("Questo sudoku non puÃ² essere risolto.");
 
 		} else {
 
 			System.out.println(" ");
-			System.out.println("La soluzione è: ");
+			System.out.println("La soluzione Ã¨: ");
 			System.out.println(" ");
 			System.out.println("             -------------------------------------");
 

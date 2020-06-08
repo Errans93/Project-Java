@@ -1,4 +1,4 @@
-package Ereditarietà;
+package EreditarietÃ ;
 
 public class Studente extends Persona {
 
@@ -9,8 +9,7 @@ public class Studente extends Persona {
 	// costruttore
 	public Studente(String nome, String indirizzo) {
 
-		// chiama il costruttore Persona
-		// -->lo abbiamo già visto con this()
+	
 		super(nome, indirizzo);
 		this.matricola = ultimaMatricola + 1;
 		ultimaMatricola++;
@@ -18,21 +17,7 @@ public class Studente extends Persona {
 
 	}
 
-	/*
-	 * super è un riferimento all'oggetto (come this) ma che consente di utilizzare
-	 * i costruttori e i metodi della superclasse. Ad es. dentro a Studente:
-	 * 
-	 * -->this() richiama un costruttore della classe Studente -->super() richiama
-	 * un costruttore della classe Persona
-	 * 
-	 * Nota: come this() anche super() deve essere eseguito come primo comando di un
-	 * costruttore.
-	 * 
-	 * In caso la chiamata super() venga omessa, viene invocato automaticamente il
-	 * costruttore senza parametri della classe. Quindi, nel costruttore della
-	 * sottoclasse la chiamata super() può essere omessa solo se: -->la superclasse
-	 * prevede un costruttore senza parametri (es. un costruttore di default)
-	 */
+	
 
 	public int getMatricola() {
 		return matricola;
@@ -59,9 +44,9 @@ public class Studente extends Persona {
 		System.out.println("     Anno: " + anno);
 
 		if (isFuoricorso())
-			System.out.println("Lo studente " + matricola + " è fuoricorso.");
+			System.out.println("Lo studente " + matricola + " Ã¨ fuoricorso.");
 		else
-			System.out.println("Lo studente " + matricola + " è in corso.");
+			System.out.println("Lo studente " + matricola + " Ã¨ in corso.");
 		System.out.println();
 	}
 

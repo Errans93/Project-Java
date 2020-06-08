@@ -1,4 +1,4 @@
-package p010_Eredità;
+package p010_EreditÃ ;
 
 /*
  * Imparati i concetti di base, andiamo a sviluppare il nostro 
@@ -8,7 +8,7 @@ package p010_Eredità;
  *  simili tra di loro. Esempio:
  *  -->supponiamo di voler realizzare un programma per la gestione
  *   degli insegnamenti di un corso di laurea
- *  -->per gli insegnamenti vogliamo sapere chi è il docente responsabile
+ *  -->per gli insegnamenti vogliamo sapere chi Ã¨ il docente responsabile
  *  e chi sono gli studenti frequentanti
  *  -->per descrivere studenti e docenti ci servono 2 classi:
  *  - Professore e Studente 
@@ -69,9 +69,9 @@ public class Studente {
 		System.out.println("     Anno: " + anno);
 
 		if (isFuoricorso())
-			System.out.println("Lo studente " + matricola + " è fuoricorso.");
+			System.out.println("Lo studente " + matricola + " Ã¨ fuoricorso.");
 		else
-			System.out.println("Lo studente " + matricola + " è in corso.");
+			System.out.println("Lo studente " + matricola + " Ã¨ in corso.");
 		System.out.println();
 	}
 

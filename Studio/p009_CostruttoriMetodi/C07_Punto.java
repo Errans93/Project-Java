@@ -1,10 +1,10 @@
 package p009_CostruttoriMetodi;
 
 /*
- * Infine, this (o meglio this()) può essere usato dal costruttore
+ * Infine, this (o meglio this()) puÃ² essere usato dal costruttore
  * per chiamarne un altro.
  * 
- * ATTENZIONE: questo uso è consentito soltato come
+ * ATTENZIONE: questo uso Ã¨ consentito soltato come
  * prima istruzione del costruttore
  */
 

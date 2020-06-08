@@ -12,22 +12,22 @@ public class C04_AboutChar {
 		char carattere = 'a';
 		
 		/*
-		 * I valori di tipo char sono in realt‡  codificati come interi
+		 * I valori di tipo char sono in realt√†  codificati come interi
 		 * quindi si possono applicare operatori aritmetici.
 		 */
 		System.out.println(carattere); //Stampa 'a'
 		carattere++;
 		System.out.println(carattere); //Stampa 'b'
 		
-		//Il tipo char puÚ essere usato anche nell'ambito di uno switch
+		//Il tipo char pu√≤ essere usato anche nell'ambito di uno switch
 		
 		switch (carattere) {
-		case 'a': System.out.println("carattere Ë a."); break;
-		case 'b': System.out.println("carattere Ë b."); break;
-		case 'c': System.out.println("carattere Ë c."); break;
-		case 'd': System.out.println("carattere Ë d."); break;
-		case 'e': System.out.println("carattere Ë e."); break;
-		default : System.out.println("carattere Ë una lettera dell'alfabeto != da a, b, c, d, e."); break;
+		case 'a': System.out.println("carattere √® a."); break;
+		case 'b': System.out.println("carattere √® b."); break;
+		case 'c': System.out.println("carattere √® c."); break;
+		case 'd': System.out.println("carattere √® d."); break;
+		case 'e': System.out.println("carattere √® e."); break;
+		default : System.out.println("carattere √® una lettera dell'alfabeto != da a, b, c, d, e."); break;
 		}
 	}
 

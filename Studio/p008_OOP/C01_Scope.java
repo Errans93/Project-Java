@@ -3,14 +3,14 @@ package p008_OOP;
 /*
  * VARIABILI STATICHE:
  * -->le variabili statiche possono essere riferite usando il nome
- *  della classe invece che il nome dell'oggetto (si puÚ comunque
+ *  della classe invece che il nome dell'oggetto (si pu√≤ comunque
  *  usare il nome di un oggetto).
  *  
  *  METODI STATICI:
- *  -->anche un metodo puÚ essere dichiarato static. Un metodo statico
- *  puÚ accedere solo a variabili statiche -> non puÚ utilizzare variabili
+ *  -->anche un metodo pu√≤ essere dichiarato static. Un metodo statico
+ *  pu√≤ accedere solo a variabili statiche -> non pu√≤ utilizzare variabili
  *  d'istanza (ossia, non statiche). Di solito i metodi statici vengono 
- *  creati per funzionalit‡ poichÈ non hanno bisogno di uno stato.
+ *  creati per funzionalit√† poich√® non hanno bisogno di uno stato.
  *  - non hanno bisogno di creare oggetti;
  *  - possono essere invocati usando il nome della classe;
  *  - tipicamente sono metodi che ricevono i parametri ed eseguono
@@ -23,7 +23,7 @@ public class C01_Scope {
 	private static int staticMember = 5;
 	private static long member = 5;
 
-	// istanza sar‡ diverso per ogni oggetto
+	// istanza sar√† diverso per ogni oggetto
 	private int istanza;
 
 	public C01_Scope(int setIstanza) {

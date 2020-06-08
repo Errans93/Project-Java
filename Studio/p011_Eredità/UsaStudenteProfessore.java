@@ -1,4 +1,4 @@
-package p011_Eredit‡;
+package p011_Eredit√†;
 
 public class UsaStudenteProfessore {
 	public static void main(String[] args) {

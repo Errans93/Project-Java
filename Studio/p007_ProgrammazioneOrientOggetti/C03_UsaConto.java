@@ -8,7 +8,7 @@ package p007_ProgrammazioneOrientOggetti;
  *  HIGHLIGHT --> se non modifichiamo l'interfaccia pubblica (nomi dei metodi,
  *  parametri, valori di ritorno) possiamo modificare la classe senza compromettere
  *  il resto del programma.
- *  -->più facile fare manutenzione e agiornamenti a parti del programma.
+ *  -->piÃ¹ facile fare manutenzione e agiornamenti a parti del programma.
  */
 
 public class C03_UsaConto {
@@ -28,7 +28,7 @@ public class C03_UsaConto {
 			cc.preleva(10);
 		} while (cc.saldo >= 41);
 
-		System.out.println("Saldo finale: " + cc.saldo + "€");
+		System.out.println("Saldo finale: " + cc.saldo + "Ã¨");
 
 	}
 }

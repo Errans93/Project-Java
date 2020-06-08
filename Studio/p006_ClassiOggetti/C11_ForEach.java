@@ -25,13 +25,13 @@ public class C11_ForEach {
 		/*
 		 * Nell'esempio: per ogni (for-each) stringa s nell'array stringhe
 		 * stampa s. Gli elementi vengono presi in ordine di posizione
-		 * nelòl'array. La variabile locale usata nel for-esch:
+		 * nell'array. La variabile locale usata nel for-esch:
 		 * -->deve essere compatibile con il tipo di array
 		 * -->consente di usare gli elementi dell'array in una sola lettura
 		 * (contiene una copia dell'elemento corrente: se si fanno modifiche 
 		 * alla variabile non si hanno effetti sugli elementi dell'array).
 		 * 
-		 * Lo stesso esempio si può "tradurre" con un ciclo for tradizionale:
+		 * Lo stesso esempio si puÃ² "tradurre" con un ciclo for tradizionale:
 		 */
 		System.out.println();
 		System.out.println("FOR: ");

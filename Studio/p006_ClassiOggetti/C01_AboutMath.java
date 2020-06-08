@@ -3,23 +3,23 @@ package p006_ClassiOggetti;
 /*
  * Avviamo visto come creare classi che includono metodi diversi
  * -->in particolare, metodi ausiliari che risolvono sottoproblemi.
- * Vedremo pi˘ avanti come realizzare programmi che condidtono di pi˘
+ * Vedremo pi√π avanti come realizzare programmi che condidtono di pi√π
  * classi che si dividono il lavoro.
  * -->i metodi di una classe potranno invocare i metodi d un altra.
- * Per il momento vediamo come utilizzare classi gÏa fatte.
- * La libreria standard di Java --> una enorme collezzione di classi gi‡ 
+ * Per il momento vediamo come utilizzare classi g√¨a fatte.
+ * La libreria standard di Java --> una enorme collezzione di classi gi√π 
  * implementate.
  * 
- * Un metodo di un'altra classe si invoca cosÏ:
+ * Un metodo di un'altra classe si invoca cos√¨:
  * 
  * 		<nomedellaclasse>.<nomedelmetodo>(<parametri>);
  * 
  * Le clssi della libreria standard di Java sono organizzate in pacchetti
  * tematici. Ad esempio:
  * 
- * -->java.lang: contiene le classi pi˘ comunemente utilizzate (considerate
+ * -->java.lang: contiene le classi pi√π comunemente utilizzate (considerate
  * di base per il linguaggio).
- * -->java.util: contiene classi di utilit‡ (strutture dati, data/ora...)
+ * -->java.util: contiene classi di utilit√† (strutture dati, data/ora...)
  * -->jaava.io: contiene classi per l'input/output (tramite console, file..)
  * -->java.awt e java.swing: contengono classe per costruire interfacce grafiche
  * -->java.security: contiene classi per crittografia e altri aspetti di sicurezza

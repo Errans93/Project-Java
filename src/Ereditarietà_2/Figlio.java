@@ -1,4 +1,4 @@
-package Ereditariet‡_2;
+package Ereditariet√†_2;
 
 public class Figlio extends Persona {
 
@@ -28,9 +28,9 @@ public class Figlio extends Persona {
 		System.out.println("Indirizzo: " + getIndirizzo());
 
 		if (isStudente())
-			System.out.println(getNome() + " Ë studente. " + " Paga meno il biglietto");
+			System.out.println(getNome() + " √® studente. " + " Paga meno il biglietto");
 		else
-			System.out.println(getNome() + " non Ë studente. E non avr‡ lo sconto per gli studenti");
+			System.out.println(getNome() + " non √® studente. E non avr√† lo sconto per gli studenti");
 		System.out.println();
 	}
 

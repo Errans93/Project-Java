@@ -1,4 +1,4 @@
-package Ereditarietà;
+package EreditarietÃ ;
 
 import java.util.Scanner;
 

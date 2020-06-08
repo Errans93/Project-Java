@@ -1,4 +1,4 @@
-package p010_Eredit‡;
+package p010_Eredit√†;
 
 /*
  * Tuttook...ma quanto codice ripetuto...

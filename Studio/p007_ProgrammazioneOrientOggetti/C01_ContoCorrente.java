@@ -2,15 +2,15 @@ package p007_ProgrammazioneOrientOggetti;
 
 /*
  * Osservazioni:
- * Questa classe non Ë molto diversa daiprogrammi che abbiamovisto fino ad ora.
+ * Questa classe non √® molto diversa daiprogrammi che abbiamovisto fino ad ora.
  * 
- * Non c'Ë il mani (ce n'Ë solo uno per tutto il programma).
- * C'Ë una variabile (saldo) che rappresenta lo stato del conto.
+ * Non c'√® il mani (ce n'√® solo uno per tutto il programma).
+ * C'√® una variabile (saldo) che rappresenta lo stato del conto.
  * 
- * ci sono due metodi (versa() e preleva()) che descrivono le funzionalit‡
+ * ci sono due metodi (versa() e preleva()) che descrivono le funzionalit√†
  * del conto.
- * C'Ë un metodo speciale (C01_ContoCorrente()) che inizializza il conto. Questo
- * metodo Ë detto COSTRUTTORE e viene richiamato quando si ha il comando new (non
+ * C'√® un metodo speciale (C01_ContoCorrente()) che inizializza il conto. Questo
+ * metodo √® detto COSTRUTTORE e viene richiamato quando si ha il comando new (non
  * prevede tipo di ritorno).
  * I metodi e le variabili sono public quindi possono essere usati anche da altre
  * classi (UsaConto).

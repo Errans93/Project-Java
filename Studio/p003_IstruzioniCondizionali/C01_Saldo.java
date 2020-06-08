@@ -2,18 +2,18 @@ package p003_IstruzioniCondizionali;
 
 import java.util.Scanner;
 
-//In un programma spesso c'è bisogno di scegliere tra operazioni diverse 
+//In un programma spesso c'Ã¨ bisogno di scegliere tra operazioni diverse 
 //--> per questo esiste l'espressione condizionale if - else
 
 //Un'ostruzione if - else ha la seguente forma:
 //		if(condizione) comando else comando
 //dove:
-//la condizione è dette guardia dell'if
-//--> la guardia può essere vera o falsa
+//la condizione Ã¨ dette guardia dell'if
+//--> la guardia puÃ² essere vera o falsa
 //I due comandi alternativi sono detti anche rami
-//--> il ramo else è opzionale
+//--> il ramo else Ã¨ opzionale
 
-//Se in un ramo c'è più di un istruzione ci vuole un BLOCCO
+//Se in un ramo c'Ã¨ piÃ¹ di un istruzione ci vuole un BLOCCO
 //-->BLOCCO = Sequenza di comandi racchiusi tra {--comandi--}
 //quindi l'espressione if - else prende la forma:
 //		if(condizione) {--comandi--} else {--comandi--}
@@ -28,9 +28,9 @@ public class C01_Saldo {
 		saldo = input.nextDouble();
 
 		if (saldo >= 0)
-			System.out.println("Il saldo è positivo o zero.");
+			System.out.println("Il saldo Ã¨ positivo o zero.");
 		else
-			System.out.println("Il saldo è negativo.");
+			System.out.println("Il saldo Ã¨ negativo.");
 
 		System.out.println();
 		System.out.println("Grazie per avere usato il nostro servizio.");
@@ -44,11 +44,11 @@ public class C01_Saldo {
 		double tassoPassivo = 2;
 		
 		if (saldo1 >= 0) {
-			System.out.println("Il saldo è positivo o zero.");
+			System.out.println("Il saldo Ã¨ positivo o zero.");
 			double interesseAttivo = saldo1*tassoAttivo;
 			saldo1 = saldo1 + interesseAttivo;
 		} else {
-			System.out.println("Il saldo è negativo.");
+			System.out.println("Il saldo Ã¨ negativo.");
 			double interessePassivo = saldo1*tassoPassivo;
 			saldo1 = saldo1 + interessePassivo;
 		}

@@ -21,11 +21,11 @@ public class C06_AndOrBool {
 		if (ore_ok && min_ok)
 			System.out.println("E' un orario");
 		else
-			System.out.println("Non è un orario");
+			System.out.println("Non Ã¨ un orario");
 
 		// OR
 		if (!ore_ok || !min_ok)
-			System.out.println("Non è un orario");
+			System.out.println("Non Ã¨ un orario");
 		else
 			System.out.println("E' un orario");
 	}
@@ -50,11 +50,11 @@ public class C03_OrarioMetodo {
 			System.out.println("Risultato AND --> E' un orario");
 			
 		} else
-			System.out.println("Non è un orario");
+			System.out.println("Non Ã¨ un orario");
 		
 if (orarioOr(min, ore)) {
 			
-			System.out.println("Non è un orario");
+			System.out.println("Non Ã¨ un orario");
 			
 		} else
 			System.out.println("Risultato OR --> E' un orario");

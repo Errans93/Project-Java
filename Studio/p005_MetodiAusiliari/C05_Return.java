@@ -5,7 +5,7 @@ package p005_MetodiAusiliari;
 
 //	private static int prova()
 //		return 3.5;
-//		-->questo mi darà errore. Il metodo si aspetta un intero 
+//		-->questo mi darÃ  errore. Il metodo si aspetta un intero 
 //		non un numero a virgola mobile.
 
 public class C05_Return {
@@ -21,7 +21,7 @@ public class C05_Return {
 		prova2();
 	}
 
-	// Il comando return può essere utilizzato più volte in un metodo.
+	// Il comando return puÃ² essere utilizzato piÃ¹ volte in un metodo.
 	private static int prova1(int x) {
 		if (x < 0)
 			return 0;

@@ -1,4 +1,4 @@
-package Ereditarietà_2;
+package EreditarietÃ _2;
 
 public class Spettacolo {
 
@@ -43,7 +43,7 @@ public class Spettacolo {
 
 	public void esaurito(Persona spettatore, boolean prenotaz) {
 		if (!prenotaz) {
-			System.out.println(" Il Biglietto non può essere venduto perchè i biglietti sono esauriti. " + spettatore.getNome());
+			System.out.println(" Il Biglietto non puÃ² essere venduto perchÃ¨ i biglietti sono esauriti. " + spettatore.getNome());
 		}
 	}
 
@@ -53,7 +53,7 @@ public class Spettacolo {
 		System.out.println("Del " + dataora);
 		System.out.println();
 
-		for (int i = 0; i < postiPrenotati; i++) { // perchè parto da zero
+		for (int i = 0; i < postiPrenotati; i++) { // perchÃ¨ parto da zero
 			spettatori[i].visualizza();
 		}
 	}

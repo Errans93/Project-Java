@@ -14,7 +14,7 @@ public class C04_UsaConto {
 			cc.preleva(10);
 		} while (cc.saldo >= 41);
 		
-		System.out.println("Saldo finale: " + cc.saldo + "€");
+		System.out.println("Saldo finale: " + cc.saldo + "Ã¨");
 
 		/*
 		 * Prima abbiamo aggiunto la stampa dei messaggi per tracciare
@@ -24,9 +24,9 @@ public class C04_UsaConto {
 		 */
 		
 		cc.saldo = 1000;
-		//In effetti il saldo è pubblico (public).
+		//In effetti il saldo Ã¨ pubblico (public).
 		
-		System.out.println("Saldo: " + cc.saldo + "€");
+		System.out.println("Saldo: " + cc.saldo + "Ã¨");
 
 	}
 

@@ -25,7 +25,7 @@ public class AppleList {
 			((Apple) apples.get(i)).setColore(colore);  //con il metodo get() accedo agli elementi di apples ma devo castare a Apple per usare
 														// i suoi metodi come setColore().
 			System.out.println();
-			System.out.println("Il colore della mela " + (i + 1) + " sar‡ " + colore);
+			System.out.println("Il colore della mela " + (i + 1) + " sar√† " + colore);
 			System.out.println();
 		}
 		

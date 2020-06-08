@@ -1,10 +1,10 @@
 package p006_ClassiOggetti;
 
 /*
- * La concatenazione di due stringhe "Mario" e "Rossi" è semplicemente
+ * La concatenazione di due stringhe "Mario" e "Rossi" Ã¨ semplicemente
  * la stringa "MarioRossi".
  * L'operazione di concatenazione in Java si scrive semplicemente con il "+".
- * L'operatore "+" in Java è sovraccaricato di significati: può essere applicato
+ * L'operatore "+" in Java Ã¨ sovraccaricato di significati: puÃ² essere applicato
  * sia a numero che a stringhe. Andiamo a vere cosa succere se si mischiano
  * stringhe e numeri in una sola espressione.  
  */

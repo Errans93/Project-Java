@@ -1,6 +1,6 @@
 package p003_IstruzioniCondizionali;
 
-//Il problema C03_Orario si può anche risolvere con gli operatori logici e di confronto:
+//Il problema C03_Orario si puÃ² anche risolvere con gli operatori logici e di confronto:
 
 public class C04_OperatoriLogici {
 
@@ -23,23 +23,23 @@ public class C04_OperatoriLogici {
         System.out.println(gamma ^ delta);
         
         
-        int épsilon = 12;
+        int epsilon = 12;
         int zeta = 21;
         int eta = 12;
         
         System.out.println();
-        System.out.println("épsilon < zeta? " + (épsilon < zeta)); // true
-        System.out.println("épsilon < eta? " + (épsilon < eta)); // false
-        System.out.println("épsilon <= eta? " + (épsilon <= eta)); // true
+        System.out.println("epsilon < zeta? " + (epsilon < zeta)); // true
+        System.out.println("epsilon < eta? " + (epsilon < eta)); // false
+        System.out.println("epsilon <= eta? " + (epsilon <= eta)); // true
 
-        System.out.println("épsilon > zeta? " + (épsilon > zeta)); // false
-        System.out.println("épsilon > eta? " + (épsilon > eta)); // false
-        System.out.println("épsilon >= eta? " + (épsilon >= eta)); // true
+        System.out.println("epsilon > zeta? " + (epsilon > zeta)); // false
+        System.out.println("epsilon > eta? " + (epsilon > eta)); // false
+        System.out.println("epsilon >= eta? " + (epsilon >= eta)); // true
 
-        System.out.println("épsilon == zeta? " + (épsilon == zeta)); // false
-        System.out.println("épsilon == eta? " + (épsilon == eta)); // true
+        System.out.println("epsilon == zeta? " + (epsilon == zeta)); // false
+        System.out.println("epsilon == eta? " + (epsilon == eta)); // true
 
-        System.out.println("épsilon != zeta? " + (épsilon != zeta)); // true
-        System.out.println("épsilon != eta? " + (épsilon != eta)); // false
+        System.out.println("epsilon != zeta? " + (epsilon != zeta)); // true
+        System.out.println("epsilon != eta? " + (epsilon != eta)); // false
     }
 }

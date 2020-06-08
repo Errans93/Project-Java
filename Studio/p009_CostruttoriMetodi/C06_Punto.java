@@ -3,12 +3,12 @@ package p009_CostruttoriMetodi;
 /*
  * THIS:
  * In ogni corpo di un metodo di istanza (o di un costruttore)
- * è sempre disponibile la variabile this.
- * -->è un riferimento all'oggetto su cui si invoca il metodo
+ * Ã¨ sempre disponibile la variabile this.
+ * -->Ã¨ un riferimento all'oggetto su cui si invoca il metodo
  * (o costruttore)
- * -->è detto parametro implicito del metodo
+ * -->Ã¨ detto parametro implicito del metodo
  * 
- * Il riferimento this può essere usato per accedere alle variabili
+ * Il riferimento this puÃ² essere usato per accedere alle variabili
  * di istanza del metodo e consente di usare come nome dei parametri
  * formali gli stessi nomi delle variabili di istanza.
  */
@@ -24,8 +24,8 @@ public class C06_Punto {
 		this.y = y;
 	}
 	/*
-	 * L'uso di this può rendere più chiara la lettura del codice di classi
-	 * complesse: -->è subito chiaro che si sta usando una variabile di istanza
+	 * L'uso di this puÃ² rendere piÃ¹ chiara la lettura del codice di classi
+	 * complesse: -->Ã¨ subito chiaro che si sta usando una variabile di istanza
 	 * 
 	 * THIS consente anche di scrivere metodi che restituiscono un riferimento
 	 * all'oggetto corrente:

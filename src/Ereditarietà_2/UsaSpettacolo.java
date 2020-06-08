@@ -1,4 +1,4 @@
-package Ereditariet‡_2;
+package Ereditariet√†_2;
 
 import java.util.Scanner;
 
@@ -40,7 +40,7 @@ public class UsaSpettacolo {
 
 		for (int i = 0; i < figlio1.length; i++) {
 			prenotaF[i] = spet.prenota(figlio1[i]);
-			System.out.println(figlio1[i].getNome() + " Ë studente?");
+			System.out.println(figlio1[i].getNome() + " √® studente?");
 			risposta = input.next();
 			figlio1[i].checkRisposta(risposta);
 		}

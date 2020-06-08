@@ -5,7 +5,7 @@ package p009_CostruttoriMetodi;
  * 		<modificatori> <tipo> <nome> (<parametri formali>){
  * 			....
  * 		}
- * -->modificatori - di visibilità (private, public..) o di appartenenza
+ * -->modificatori - di visibilitÃ  (private, public..) o di appartenenza
  * a classe o istanze (static).
  * -->tipo - del risultato restituito dal metodo
  * -->nome - del metodo
@@ -15,7 +15,7 @@ package p009_CostruttoriMetodi;
 public class C02_Methods {
 
 	/*
-	 * I metodi  e la possibilità  di definire variabili private consentono
+	 * I metodi  e la possibilitÃ   di definire variabili private consentono
 	 * di limitare l'accesso allo stato di un oggetto.
 	 */
 	
@@ -28,14 +28,14 @@ public class C02_Methods {
 	public int getValore() {
 		return valore;
 		
-		//La variabile di istanza valore potrà esssere acceduta 
+		//La variabile di istanza valore potrÃ  esssere acceduta 
 		//solo in lettura
 		
-		//Tramite i metodi si può anche controllare la scrittura delle 
+		//Tramite i metodi si puÃ² anche controllare la scrittura delle 
 		//variabili private
 		
-		//modifica il valore solo se il nuovo valore è maggiore
-		//restituisce TRUE se la modifica è stata fatta, FALSE altrimenti
+		//modifica il valore solo se il nuovo valore Ã¨ maggiore
+		//restituisce TRUE se la modifica Ã¨ stata fatta, FALSE altrimenti
 	}	
 		public boolean setValore(int nuovo) {
 			if (nuovo > valore) {

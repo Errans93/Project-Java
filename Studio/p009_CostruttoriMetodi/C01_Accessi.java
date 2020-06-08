@@ -2,19 +2,19 @@ package p009_CostruttoriMetodi;
 
 /*
  * Abbiamo visto che si usano:
- * -->membri di istanza per codificare lo stato e le funzionalità dei singoli oggetti
- * -->membri statici per codificare lo stato e le funzionalità della classe:
+ * -->membri di istanza per codificare lo stato e le funzionalitÃ  dei singoli oggetti
+ * -->membri statici per codificare lo stato e le funzionalitÃ  della classe:
  * - condivise da tutti gli oggetti
  * - significativi anche se non esiste nessun oggetto della classe
  * 
- * Il main è statico. In effetti  viene creato prima di aver creato qualunque oggetto.
+ * Il main Ã¨ statico. In effetti  viene creato prima di aver creato qualunque oggetto.
  * 
  * -->una variabile dovrebbe essere di istanza se assume valori diversi 
  * per oggetti diversi
  * -->una variabie dovrebbe essere statica se assume gli stessi valori per oggetti diversi
  * 
  * Abbiamo visto anche che una dichiarazione di variabile o metodo (siano essi statici o no)
- * può essere preceduto da modificare di visibilità. In ordine crescente di visibilità:
+ * puÃ² essere preceduto da modificare di visibilitÃ . In ordine crescente di visibilitÃ :
  * 
  * 		PRIVATE --> visualizzabile solo all'interno della stessa classe
  * 		 

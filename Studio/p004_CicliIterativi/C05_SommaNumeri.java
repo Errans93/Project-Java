@@ -6,20 +6,20 @@ import java.util.Scanner;
 //almeno una volta possiamo il comando do-while.
 
 //--Andremo a modificare la classe C02_SommaNumeri in modo che continui
-//a sommare numeri finchè l'utente non inserisce un numero negativo.
+//a sommare numeri finchÃ¨ l'utente non inserisce un numero negativo.
 
 //Il comando do-while ha la seguente forma:
 //do{--comando--} while(condizione)
 //dove:
-//-->la condizione è detta guardia del do-while
-//-->la guardia può essere una qualunque espressione booleana
-//-->il comando (o blocco) è detto corpo del do-while
+//-->la condizione Ã¨ detta guardia del do-while
+//-->la guardia puÃ² essere una qualunque espressione booleana
+//-->il comando (o blocco) Ã¨ detto corpo del do-while
 
 //Semantica:
 //1)il corpo viene eseguito
 //2)la guardia viene valutata
-//3)se la guardia è vera si rinizia dal punto 1)
-//4)se la guardia è falsa si procede con l'istruzione dopo il while
+//3)se la guardia Ã¨ vera si rinizia dal punto 1)
+//4)se la guardia Ã¨ falsa si procede con l'istruzione dopo il while
 
 public class C05_SommaNumeri {
 	public static void main(String[] args) {

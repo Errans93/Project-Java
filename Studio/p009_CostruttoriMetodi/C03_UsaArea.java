@@ -2,7 +2,7 @@ package p009_CostruttoriMetodi;
 
 /*
  * La variabile privata area della classe C03_Finestra 
- * è al sicuro?
+ * Ã¨ al sicuro?
  * 
  * -->No!!
  * 

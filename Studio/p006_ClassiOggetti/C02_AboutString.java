@@ -2,15 +2,15 @@ package p006_ClassiOggetti;
 
 /*
  * Molte classi della libreria standard di Java si usano per creare oggetti.
- * Questa è la  caratteristica più importante di java (e di tutti gli altri
+ * Questa Ã¨ la  caratteristica piÃ¹ importante di java (e di tutti gli altri
  * linguaggi di programmazione orientati agli oggetti).
  * 
- * Un oggetto è un istanza di una classe:
- * -->un oggetto può possedere un proprio stato interno
+ * Un oggetto Ã¨ un istanza di una classe:
+ * -->un oggetto puÃ² possedere un proprio stato interno
  * -->la CLASSE specifica i metodi che possono essere invocati sull'oggetto
  * (metodi di istanza, specificano il comportamento dell'oggetto).
  * 
- * La relazione tra classi e oggetti è la seguente:
+ * La relazione tra classi e oggetti Ã¨ la seguente:
  * una classe definisce UN TIPO (non primitivo) i cui valori sono oggetti.
  * 
  * La classe STRING
@@ -30,18 +30,18 @@ public class C02_AboutString {
 		 * Le variabili nome e cognome: -->sono due oggetti di tipo String -->sono due
 		 * istanze della classe String -->hanno stati interni diversi ("Mario", "Rossi")
 		 * 
-		 * Per creare un oggetto si usa la parola chiave new: -->new è seguito dalla
+		 * Per creare un oggetto si usa la parola chiave new: -->new Ã¨ seguito dalla
 		 * chiamata a un costruttore della classe (un metodo speciale che ha lo stesso
 		 * nome della classe e inizializza il nuovo oggetto).
 		 * 
-		 * La classe String in realtà è speciale. I suoi oggetti possono essere creati
-		 * anche così:
+		 * La classe String in realtÃ  Ã¨ speciale. I suoi oggetti possono essere creati
+		 * anche cosÃ¬:
 		 */
 		String s = "hello";
 		String t = "world";
 		String u = "or";
 
-		// Ecco alcuni tra i metodi più comuni che si possono invocare su oggetti di
+		// Ecco alcuni tra i metodi piÃ¹ comuni che si possono invocare su oggetti di
 		// tipo String
 
 		//Concateno la variabile s con t e con u
@@ -62,7 +62,7 @@ public class C02_AboutString {
 
 		//Questo metodo mi restituisce:
 		//true se la variabile t contiene la variabile u (in altre parole
-		//se nella parola "world" c'è la parola "or")
+		//se nella parola "world" c'Ã¨ la parola "or")
 		System.out.println("t contains u? " + t.contains(u));
 
 		//Questo metodo restituisce la porzione di stringa che va dal 
@@ -89,7 +89,7 @@ public class C02_AboutString {
 		System.out.println("there is no \"lx\" in s: " + s.indexOf("lx"));
 
 		//Questo metodo restituisce:
-		//true se la stringa è vuota
+		//true se la stringa Ã¨ vuota
 		//false se la stringa esiste
 		System.out.println("check if an empty string is empty: " + "".isEmpty());
 		

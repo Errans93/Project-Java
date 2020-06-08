@@ -20,8 +20,8 @@ public class C02_UsaDueConti {
 			cc2.preleva(10);
 		} while (cc1.saldo >= 41 && cc2.saldo > cc1.saldo);
 
-		System.out.println("Saldo finale conto 1: " + cc1.saldo + "€");
-		System.out.println("Saldo finale conto 2: " + cc2.saldo + "€");
+		System.out.println("Saldo finale conto 1: " + cc1.saldo + "Ã¨");
+		System.out.println("Saldo finale conto 2: " + cc2.saldo + "Ã¨");
 	}// La clsse 01_ContoCorrente rimane quella di prima
 
 }

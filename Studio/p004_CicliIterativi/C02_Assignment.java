@@ -5,7 +5,7 @@ package p004_CicliIterativi;
 //contatore = contatore + 1
 
 //Per questo motivo in java esistono dei comandi di assegnamento ausiliari 
-//(abbreviazioni sintattiche) che semplificano un pò la scrittura.
+//(abbreviazioni sintattiche) che semplificano un po' la scrittura.
 //-->(somma += numero) == (somma = somma + numero) --> TRUE
 //-->(contatore ++) == (contatore = contatore + 1) --> TRUE
 

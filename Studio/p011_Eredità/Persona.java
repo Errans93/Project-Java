@@ -1,4 +1,4 @@
-package p011_Eredit‡;
+package p011_Eredit√†;
 
 /*
  * Isolamo dunque i membri condivisi di Studente e Professore in una

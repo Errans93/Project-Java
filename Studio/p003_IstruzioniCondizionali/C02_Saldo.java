@@ -2,7 +2,7 @@ package p003_IstruzioniCondizionali;
 
 import java.util.Scanner;
 
-//I comandi if - else possono essere annidati --> si può inserire un if - else
+//I comandi if - else possono essere annidati --> si puÃ² inserire un if - else
 //in un ramo di un altro if - else.
 
 //NOTE:
@@ -24,7 +24,7 @@ public class C02_Saldo {
 			System.out.println("Saldo negativo");
 
 		// Un caso particolare di if - else annidati sono gli if - else concatenati:
-		// --> il ramo else è costituito da un altro ramo if
+		// --> il ramo else Ã¨ costituito da un altro ramo if
 		// --> la guardia del secondo if considera un caso alternativo
 		// a quello considerato dalla prima guardia dell'if
 

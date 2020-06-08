@@ -1,7 +1,7 @@
 package p002_Primitivi;
 
-//Si può forzare una conversione (type cast) nel modo seguente.
-//La trsformazione (da double a int per es.) è ottenuta troncando
+//Si puÃ² forzare una conversione (type cast) nel modo seguente.
+//La trsformazione (da double a int per es.) Ã¨ ottenuta troncando
 //il numero --> si eliminano le cifre decimali: 25.99 -> 25.
 
 public class C03_Narrowing {

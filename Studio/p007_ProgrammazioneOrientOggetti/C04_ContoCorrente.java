@@ -4,7 +4,7 @@ package p007_ProgrammazioneOrientOggetti;
  * Modifiche all'interfaccia pubblica richiedono invece di modificare
  * il chiamante (in questo caso il main).
  * 
- * -->consentiamo il prelievo solo se c'Ë disponibilit‡
+ * -->consentiamo il prelievo solo se c'√® disponibilit√†
  */
 
 public class C04_ContoCorrente {
@@ -19,7 +19,7 @@ public class C04_ContoCorrente {
 
 	public void versa(double somma) {
 		saldo += somma;
-		System.out.println("Versati: " + somma + "Ä");
+		System.out.println("Versati: " + somma + "√®");
 	}
 
 	// Restituisce false se non ci sono abbastanza soldi
@@ -31,7 +31,7 @@ public class C04_ContoCorrente {
 			return false;
 		} else {
 			saldo -= somma;
-			System.out.println("Prelevati: " + somma + "Ä");
+			System.out.println("Prelevati: " + somma + "√®");
 		}
 		return true;
 	}

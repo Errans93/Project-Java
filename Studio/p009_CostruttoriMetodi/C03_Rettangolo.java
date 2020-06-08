@@ -6,7 +6,7 @@ package p009_CostruttoriMetodi;
  *come parametri.
  *E quando si passano oggetti a metodi?
  *Le variabili di tipo Clesse contengono rifrimenti a oggetti:
- *-->ciò che viene copiato al momento della chiamata è il riferimento;
+ *-->ciÃ² che viene copiato al momento della chiamata Ã¨ il riferimento;
  *-->il metodo lavora sull'oggetto originale (acceduto tramite la copia 
  *del riferimento). 
  */

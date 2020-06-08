@@ -1,10 +1,10 @@
 package p002_Primitivi;
 
-//Le espressioni aritmetiche più semplici sono costituite da singoli letterali
+//Le espressioni aritmetiche piÃ¹ semplici sono costituite da singoli letterali
 //--> Letterali interi: 1, 2, 3, -1, -2, -3, ...
 //--> Letterali frazionari: 1.0, 2.0, 3.0, -1.2, -2.0, -3.3...
 
-//Espressioni più complesse si ottengono utilizzando operatori aritmetici:
+//Espressioni piÃ¹ complesse si ottengono utilizzando operatori aritmetici:
 //--> *
 //--> % (MODULO - resto di divisione tra interi)
 //--> -

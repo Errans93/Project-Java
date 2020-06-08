@@ -8,25 +8,25 @@ import java.util.Scanner;
 //Il comando while ha la seguante forma:
 //while(condizione) comando
 //dove:
-//-->la condizione Ë detta guardia
-//-->la guarda puÚ essere una qualsiasi espressione booleana
-//-->il comando (o blocco) Ë detto corpo del while
+//-->la condizione √® detta guardia
+//-->la guarda pu√≤ essere una qualsiasi espressione booleana
+//-->il comando (o blocco) √® detto corpo del while
 
 //Semantica
 //1) La guardia viene valutata
-//2)Se la guardia Ë vera si esegue il corpo e si ricomincia dal punto 1)
-//3)Se la guardia Ë falsa si salta il corpo e si procede con l'istruzione
+//2)Se la guardia √® vera si esegue il corpo e si ricomincia dal punto 1)
+//3)Se la guardia √® falsa si salta il corpo e si procede con l'istruzione
 //successiva al while
 
 //NOTE:
-//Una propriet‡ importante dei blocchi Ë che le variabili dichiarate all'interno 
+//Una propriet√† importante dei blocchi √® che le variabili dichiarate all'interno 
 //di un blocco sono locali al blocco stesso e, quindi, scompaiono dopo 
 //l'esecuzione del blocco. 
 //Per esempio nel seguente programma la variabile 
-//somma Ë stata dichiarata al di fuori del ciclo while, questo allo scopo di 
+//somma √® stata dichiarata al di fuori del ciclo while, questo allo scopo di 
 //poterla stampare come risultato una volta finito il ciclo.
 //Se provassimo a stampare numeroSomma al di fuori del ciclio il compilatore 
-//lo segnalerebbe come errore, poichË Ë una variabile LOCALE del ciclo while.
+//lo segnalerebbe come errore, poich√® √® una variabile LOCALE del ciclo while.
 
 public class C01_SommaNumeri {
 	public static void main(String[] args) {
@@ -54,6 +54,6 @@ public class C01_SommaNumeri {
 
 		}
 		System.out.println();
-		System.out.println("La somma dei numeri che hai scelto Ë: " + somma);
+		System.out.println("La somma dei numeri che hai scelto √®: " + somma);
 	}
 }

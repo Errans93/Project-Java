@@ -19,12 +19,12 @@ public double saldo;
 	
 	public void versa(double somma) {
 		saldo += somma;
-		System.out.println("Versati: " + somma + "€");
+		System.out.println("Versati: " + somma + "Ã¨");
 	}
 	
 	public void preleva(double somma) {
 		saldo -= somma;
-		System.out.println("Prelevati: " + somma + "€");
+		System.out.println("Prelevati: " + somma + "Ã¨");
 	}
 
 }

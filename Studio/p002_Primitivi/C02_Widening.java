@@ -1,8 +1,8 @@
 package p002_Primitivi;
 
-//le regole di compatibilità degli assegnamenti consentono di
+//le regole di compatibilitÃ  degli assegnamenti consentono di
 //convertire automaticamente byte -> short -> int -> long -> float -> double
-//Ovviamente vale anche byte -> double (la relazione è transitiva)
+//Ovviamente vale anche byte -> double (la relazione Ã¨ transitiva)
 
 public class C02_Widening {
 	

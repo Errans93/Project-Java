@@ -1,4 +1,4 @@
-package p010_Eredit‡;
+package p010_Eredit√†;
 
 public class Professore {
 	private String nome;

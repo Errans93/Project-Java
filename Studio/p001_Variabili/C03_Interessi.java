@@ -3,10 +3,10 @@ package p001_Variabili;
 //Inquesto esempio alcune variabili sono state inizializzate nella dichiarazione.
 //--> Le variabili hanno tipo  double 
 //--> Le variabili cambiano valore durante l'esecuzione
-//--> Il nuovo valore di una variabile puÚ essere calcolato a 
+//--> Il nuovo valore di una variabile pu√≤ essere calcolato a 
 //partire dal precente (capitale= capitale+interesse;).
-//Nella dichiarazione che nn devono mai cambiare valore si puÚ 
-//utilizzare il modificatore "final"..Ï Questo modificatore trasforma 
+//Nella dichiarazione che nn devono mai cambiare valore si pu√≤ 
+//utilizzare il modificatore "final".. Questo modificatore trasforma 
 //la variabile in costante.
 
 

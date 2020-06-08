@@ -1,4 +1,4 @@
-package Ereditarietà_2;
+package EreditarietÃ _2;
 
 public class Persona {
 	protected String nome;

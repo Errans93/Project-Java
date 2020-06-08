@@ -3,10 +3,10 @@ package p002_Primitivi;
 //Il controllo dei tipi effettuato dal compilatore serve a prevenire errori di programmazione.
 //Se dichiariamo una variabile di un certo tipo e poi le assegnamo valori di un altro tipo, 
 //forse le stiamo assegnando il valore sbagliato.
-//Sapere che una variabile Ë di un certo tipo offre al programmatore delle garanzie:
+//Sapere che una variabile √® di un certo tipo offre al programmatore delle garanzie:
 // int x, y, z;
 //Sy.print("risultato" + x/2+(y/4-7)*z*z);
-//-->Qualunque siano i valori assegnati a x, y e z il risultato sar‡ un int.
+//-->Qualunque siano i valori assegnati a x, y e z il risultato sar√† un int.
 
 //I tipi primitivi del linguaggio Java sono i seguenti:S
 

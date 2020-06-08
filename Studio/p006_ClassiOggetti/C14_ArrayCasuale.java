@@ -14,7 +14,7 @@ import java.util.Random;
  *  -->sommaTutti(a) - che restituisce la somma di tutti gli elementi a
  *  
  *  Il metodo main deve utilizzare i metodi ausiliari per generare un array
- *  di 10 elementi dei quali quali stamper‡ la somma.
+ *  di 10 elementi dei quali quali stamper√† la somma.
  */
 
 public class C14_ArrayCasuale {
@@ -27,7 +27,7 @@ public class C14_ArrayCasuale {
 		}
 
 		int somma = sommaTutti(arrayCasuale);
-		System.out.println("La somma di tutti i membri dell'array Ë: " + somma);
+		System.out.println("La somma di tutti i membri dell'array √®: " + somma);
 	}
 
 	private static int[] generaArray() {

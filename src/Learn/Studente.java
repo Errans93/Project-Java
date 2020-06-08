@@ -4,7 +4,7 @@ public class Studente {
 
 	private String nome; // nome e cognome
 	private String indirizzo; // indirizzo
-	private String facolt‡;
+	private String facolt√†;
 	private int matricola; // nunero di matricola
 	private int anno; // anno di appartenenza
 	private static int ultimaMatricola = 0; // variabile statica
@@ -22,17 +22,17 @@ public class Studente {
 		// si assume che un nuovo studente sia al primo anno
 
 		this.anno = 1;
-		this.facolt‡ = "defalut";
+		this.facolt√† = "defalut";
 	}
 	
-	//fornisce la facolt‡ dello studente
-	public String getFacolt‡() {
-		return facolt‡;
+	//fornisce la facolt√† dello studente
+	public String getFacolt√†() {
+		return facolt√†;
 	}
 	
-	//Imposta la facolt‡ dello studente
-	public void setFacolt‡(String facolt‡) {
-		this.facolt‡ = facolt‡;
+	//Imposta la facolt√† dello studente
+	public void setFacolt√†(String facolt√†) {
+		this.facolt√† = facolt√†;
 	}
 
 	// fornisce il nome dello studente
@@ -67,7 +67,7 @@ public class Studente {
 
 	}
 
-	// verifica se lo studente Ë fuoricorso
+	// verifica se lo studente  √® fuoricorso
 	public boolean isFuoricorso() {
 		return (anno > 5);
 	}
@@ -78,11 +78,11 @@ public class Studente {
 		System.out.println("Indirizzo: " + indirizzo);
 		System.out.println("Matricola: " + matricola);
 		System.out.println("     Anno: " + anno);
-		System.out.println("  Facolt‡: " + facolt‡);
+		System.out.println("  Facolt√†: " + facolt√†);
 		if (isFuoricorso())
-			System.out.println("Lo studente " + matricola + " Ë fuoricorso.");
+			System.out.println("Lo studente " + matricola + " √® fuoricorso.");
 		else
-			System.out.println("Lo studente " + matricola + " Ë in corso.");
+			System.out.println("Lo studente " + matricola + " √® in corso.");
 		System.out.println();
 	}
 }

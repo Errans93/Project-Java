@@ -1,4 +1,4 @@
-package Ereditarietà;
+package EreditarietÃ ;
 
 public class Professore extends Persona {
 
@@ -30,43 +30,6 @@ public class Professore extends Persona {
 
 		System.out.println();
 		
-		/*
-		 * Il metodo visualizza di Studente e Professore richiede
-		 * due osservazioni:
-		 * 
-		 * 1) Nome e indirizzo sono variabili private di Persona
-		 * -->il fatto che Studente e Professore siano sottoclasse
-		 * non le autorizzano ad accedere a variabili private
-		 * 
-		 * Conseguenze:
-		 * -->devo usare i metodi pubblici (se disponibili, come in 
-		 * questo caso)
-		 * -->devo modificare il modificatore di visibilità private
-		 * di nome e indirizzo in Persona
-		 * 
-		 * 2) visualizza() era già stato definito in Persona
-		 * -->questo è il caso di OVERRIDING di un metodo
-		 * -->la sottoclasse ridefinisce (sostituendolo) un metodo
-		 * della superclasse
-		 * 
-		 * Per ottenere l'overriding di un metodo è necessario che la 
-		 * firma del metodo della sotto classe sia identica a quella del
-		 * metodo della superclasse --> in caso contrario avremo un OVERLOADING
-		 * -->entrambi i metodi (il vecchio e il nuovo) sarebbero
-		 * abilitati ed invocati in base alla firma.
-		 * 
-		 * Quando vado a fare un Overriding di un metodo posso andare
-		 * a scrivere sopra il metodo della sotto classe @Override in 
-		 * modo che il compilatore sia sicuro che quel metodo sia lo stesso
-		 * MA modificato.
-		 * 
-		 * ATTENZIONE:
-		 * Override e Overload di metodi sono due cose molto diverse:
-		 * - Overloading - è un meccanismo che consente di avere più
-		 * metodi con lo stesso nome (ma con firma differente)
-		 * 
-		 * - Overriding - è un meccanismo che consente di sostituire
-		 * un metodo della superclasse
-		 */
+		
 	}
 }

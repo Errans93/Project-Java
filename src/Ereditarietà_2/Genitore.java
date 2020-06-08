@@ -1,4 +1,4 @@
-package Ereditarietà_2;
+package EreditarietÃ _2;
 
 public class Genitore extends Persona {
 

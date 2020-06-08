@@ -1,10 +1,10 @@
 package p006_ClassiOggetti;
 
 /*
- * Un array è una sequenza di variabili di tipo omogeneo (tutte dello 
+ * Un array Ã¨ una sequenza di variabili di tipo omogeneo (tutte dello 
  * stesso tipo) distinguibili l'una dall'altra in base alla loro posizione
  * nell'array (all'interno della sequenza).
- * Il numero di elementi dell'array è detto lunghezza (o dimensione).
+ * Il numero di elementi dell'array Ã¨ detto lunghezza (o dimensione).
  */
 
 public class C09_AboutArray {
@@ -20,24 +20,24 @@ public class C09_AboutArray {
 		// Creazione di un array:
 		// <nome array> = new <tipo>[<lunghezza>];
 
-		interi = new int[10]; // interi è un array di 10 variabili di tipo int
-		doubles = new double[10]; // doubles è un array di 10 variabili di tipo double
-		stringhe = new String[10]; // stringhe è un array di 10 variabili di tipo String
+		interi = new int[10]; // interi Ã¨ un array di 10 variabili di tipo int
+		doubles = new double[10]; // doubles Ã¨ un array di 10 variabili di tipo double
+		stringhe = new String[10]; // stringhe Ã¨ un array di 10 variabili di tipo String
 
 		// dichiarazione e creazione possono essere abbinati:
 
-		int[] numeri1 = new int[10]; // interi è un array di 10 variabili di tipo int
-		double[] duobles1 = new double[10]; // doubles è un array di 10 variabili di tipo double
-		String[] stringhe1 = new String[10]; // stringhe è un array di 10 variabili di tipo String
+		int[] numeri1 = new int[10]; // interi Ã¨ un array di 10 variabili di tipo int
+		double[] duobles1 = new double[10]; // doubles Ã¨ un array di 10 variabili di tipo double
+		String[] stringhe1 = new String[10]; // stringhe Ã¨ un array di 10 variabili di tipo String
 
 		/*
-		 * NOTE: -->serve per alloccare (riservare) l'area di memoria che dovrà
+		 * NOTE: -->serve per alloccare (riservare) l'area di memoria che dovrÃ 
 		 * contenere i valori -->la lunghezza dell'array deve essere specificata in fase
-		 * di creazione e non potrà cambiare -->un array è in realtà un oggetto per
+		 * di creazione e non potrÃ  cambiare -->un array Ã¨ in realtÃ  un oggetto per
 		 * questo si ha new
 		 * 
 		 * Al momento della creazione tutti gli elementi sono inizializzati a: -->0 se
-		 * il tipo è numerico -->false se è boolean -->null per array di oggetti
+		 * il tipo Ã¨ numerico -->false se Ã¨ boolean -->null per array di oggetti
 		 *
 		 * Gli elementi di un array possono essere inizializzati in fase di
 		 * dichiarazione:
@@ -91,9 +91,9 @@ public class C09_AboutArray {
 		 * essere compreso tra 0 e n - 1 (in questo caso n - 1 == 9).
 		 * 
 		 * -->La lunghezza di un array puo essere "scoperta" tramite l'attributo length
-		 * (in questo caso non è un metodo)
+		 * (in questo caso non Ã¨ un metodo)
 		 */
-		System.out.println("La unghezza dell'array interi è: " + interi.length);
+		System.out.println("La unghezza dell'array interi Ã¨: " + interi.length);
 
 	}
 }

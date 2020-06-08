@@ -14,9 +14,9 @@ public class Main {
 		System.out.println("Studente: " + stud1.getNome() + ";" + " Indirizzo: " + stud1.getIndirizzo() + ";"
 				+ " Matricola: " + stud1.getMatricola());
 
-		System.out.println("Inserisci la facolt‡");
+		System.out.println("Inserisci la facolt√†");
 		System.out.println();
-		String facolt‡ = "Default";
+		String facolt√† = "Default";
 		String fac;
 		do {
 			String fac1 = input.next();
@@ -31,19 +31,18 @@ public class Main {
 
 			switch (prem2) {
 			case 1:
-				facolt‡ = fac;
+				facolt√† = fac;
 				break;
 			case 2:
-				System.out.println("Re-inserisci il nome della facolt‡");
+				System.out.println("Re-inserisci il nome della facolt√†");
 				break;
 			default:
-				System.out.println("La tua scelta non Ë valida");
+				System.out.println("La tua scelta non √® valida");
 				break;
 			}
-		} while (!facolt‡.equals(fac)); // Esegui il do mentre !facolt‡.equals(check) Ë false. Nel caso in cui sia
+		} while (!facolt√†.equals(fac)); // Esegui il do mentre !facolt√†.equals(check) √® false. Nel caso in cui sia
 										// vero esco dal ciclo
 
-		stud1.setFacolt‡(facolt‡);
 
 		System.out.println("A quale anno appartieni?");
 
@@ -69,8 +68,8 @@ public class Main {
 			stud1.setIndirizzo(indirizzo);
 			break;
 		default:
-			System.out.println("La tua scelta non Ë valida");
-			indirizzo = "Non Ë stato inserito alcun indirizzo";
+			System.out.println("La tua scelta non √® valida");
+			indirizzo = "Non √® stato inserito alcun indirizzo";
 			stud1.setIndirizzo(indirizzo);
 			break;
 		}
@@ -87,9 +86,9 @@ public class Main {
 		System.out.println("Studente: " + stud2.getNome() + ";" + " Indirizzo: " + stud2.getIndirizzo() + ";"
 				+ " Matricola: " + stud2.getMatricola());
 
-		System.out.println("Inserisci la facolt‡");
+		System.out.println("Inserisci la facolt√†");
 		System.out.println();
-		// String facolt‡ = "Default";
+		// String facolt√† = "Default";
 		// String fac;
 		do {
 			String fac1 = input.next();
@@ -103,25 +102,24 @@ public class Main {
 
 			switch (prem2) {
 			case 1:
-				facolt‡ = fac;
+				facolt√† = fac;
 				break;
 			case 2:
-				System.out.println("Re-inserisci il nome della facolt‡");
+				System.out.println("Re-inserisci il nome della facolt√†");
 				break;
 			default:
-				System.out.println("La tua scelta non Ë valida");
+				System.out.println("La tua scelta non √® valida");
 				break;
 			}
-		} while (!facolt‡.equals(fac)); // Esegui il do mentre !facolt‡.equals(check) Ë false. Nel caso in cui sia
+		} while (!facolt√†.equals(fac)); // Esegui il do mentre !facolt√†.equals(check) √® false. Nel caso in cui sia
 										// vero esco dal ciclo
 
-		stud1.setFacolt‡(facolt‡);
+		
 
 		System.out.println("A quale anno appartieni?");
 
 		anno = input.nextInt();
 
-		stud2.setAnno(anno);
 		// stud1.isFuoricorso();
 
 		System.out.println("Vivi in via Letizia?");
@@ -141,8 +139,8 @@ public class Main {
 			stud2.setIndirizzo(indirizzo);
 			break;
 		default:
-			System.out.println("La tua scelta non Ë valida");
-			indirizzo = "Non Ë stato inserito alcun indirizzo";
+			System.out.println("La tua scelta non √® valida");
+			indirizzo = "Non √® stato inserito alcun indirizzo";
 			stud2.setIndirizzo(indirizzo);
 			break;
 		}

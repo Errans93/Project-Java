@@ -18,11 +18,11 @@ public class C06_AndOrBool {
 		if (ore_ok && min_ok)
 			System.out.println("E' un orario");
 		else
-			System.out.println("Non è un orario");
+			System.out.println("Non Ã¨ un orario");
 
 		// OR
 		if (!ore_ok || !min_ok)
-			System.out.println("Non è un orario");
+			System.out.println("Non Ã¨ un orario");
 		else
 			System.out.println("E' un orario");
 	}

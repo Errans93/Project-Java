@@ -3,8 +3,8 @@ package p005_MetodiAusiliari;
 import java.util.Scanner;
 
 //Fino ad ora abbiamo realizzato programmi costituiti da un solo metodo (il main).
-//Quando il programma da realizzare diventa più articolato conviene:
-//-->identificare SOTTOPROBLEMI che soììpossono essere risolti individualmente
+//Quando il programma da realizzare diventa piÃ¹ articolato conviene:
+//-->identificare SOTTOPROBLEMI che possono essere risolti individualmente
 //-->scrivere SOTTOPROGRAMMI che risolvono i SOTTOPROBLEMI
 //-->richiamare i SOTTOPROGRAMMI dal programma principale (main)
 
@@ -24,7 +24,7 @@ import java.util.Scanner;
 //-->somma
 //-->prodotto
 
-//Definizione del metodo ausiliario somma (il metodo prodotto è analogo)
+//Definizione del metodo ausiliario somma (il metodo prodotto Ã¨ analogo)
 
 //		private static int somma() {
 //			int ris = 0;
@@ -36,12 +36,12 @@ import java.util.Scanner;
 
 //-->private significa che si tratta di un metodo ausiliario (di aiuto a un altro
 //metodo della stessa classe e non utilizzabile da altre classi)
-//-->static si capirà più avanti
-//-->int è il tipo di risultato calcolato dal metodo
-//-->somma è il nome del metodo (è un identificatore e valgono le stesse
+//-->static si capirÃ  piÃ¹ avanti
+//-->int Ã¨ il tipo di risultato calcolato dal metodo
+//-->somma Ã¨ il nome del metodo (Ã¨ un identificatore e valgono le stesse
 //regole sintattiche delle variabili)
 //-->le parentesi le capireo tra poco
-//-->return è un comando che termina l'esecuzione del metodo e fornisce il risultato.
+//-->return Ã¨ un comando che termina l'esecuzione del metodo e fornisce il risultato.
 
 public class C01_SommaProdotto {
 
@@ -58,9 +58,9 @@ public class C01_SommaProdotto {
 			risultato = somma();
 			System.out.println(risultato);
 			
-			//La chiamata (o invocazione) di un metodo è un'ESPRESSIONE:
-			//-->il tipo di tale espressione è il tipo del risultato del metodo
-			//-->il valore di tale espressione è il valore restituito dal metodo
+			//La chiamata (o invocazione) di un metodo Ã¨ un'ESPRESSIONE:
+			//-->il tipo di tale espressione Ã¨ il tipo del risultato del metodo
+			//-->il valore di tale espressione Ã¨ il valore restituito dal metodo
 			
 			//Avremmo anche potuto semplificare il programma scrivendo direttamente:
 			//		System.out.println(somma()); 

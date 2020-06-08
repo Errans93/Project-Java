@@ -25,9 +25,9 @@ public class C12_RipetoNumeri {
 		}
 		
 		/*
-		 * Perchè non ci sono due for-each?
-		 * Il comando for-each può essere usato sono quando l'indice degli 
-		 * elementi non è importante. Quando l'indice è importante, bisogna 
+		 * PerchÃ¨ non ci sono due for-each?
+		 * Il comando for-each puÃ² essere usato sono quando l'indice degli 
+		 * elementi non Ã¨ importante. Quando l'indice Ã¨ importante, bisogna 
 		 * usare il for tradizionale.
 		 */
 

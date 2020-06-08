@@ -31,9 +31,9 @@ public class C04_CandyShop {
 				numeroCaramelle = caramelle;
 				System.out.print("Mi sono rimaste solo ");
 				System.out.print(numeroCaramelle);
-				System.out.print(" caramelle. Il prezzo è per queste è ");
+				System.out.print(" caramelle. Il prezzo Ã¨ per queste ");
 				System.out.print(prezzo * numeroCaramelle);
-				System.out.println("€");
+				System.out.println("â‚¬");
 				System.out.println();
 
 				verifica = false;
@@ -42,9 +42,9 @@ public class C04_CandyShop {
 			caramelle -= numeroCaramelle;
 
 			if (verifica) {
-				System.out.print("Il prezzo è ");
+				System.out.print("Il prezzo Ã¨ ");
 				System.out.print(prezzo * caramelle);
-				System.out.println("€");
+				System.out.println("â‚¬");
 				System.out.println();
 			}
 		}

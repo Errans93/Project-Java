@@ -20,7 +20,7 @@ public class C04_ProdottoPotenza {
 
 			ris = prodotto(x, y);
 			
-			System.out.print("Il prodotto x*y è: ");
+			System.out.print("Il prodotto x*y Ã¨: ");
 			System.out.println(ris);
 
 		} else if (scelta == 2) {
@@ -28,7 +28,7 @@ public class C04_ProdottoPotenza {
 
 				ris = prodotto(x, ris);
 			}
-			System.out.print("La potenza (x^y) è: ");
+			System.out.print("La potenza (x^y) Ã¨: ");
 			System.out.println(ris);
 		} else
 			System.out.println("ERRORE");

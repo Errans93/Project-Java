@@ -3,7 +3,7 @@ package p006_ClassiOggetti;
 import java.util.Scanner;
 
 /*
- * Per dire se due stringhe sono uguali non si può usare ==.
+ * Per dire se due stringhe sono uguali non si puÃ² usare ==.
  * Questo vale in generale per tutti gli oggetti. 
  * == confronterebbe l'indirizzo di memoria dei due oggetti.
  * La classe String fornisce metodi per confrontare stringhe:
@@ -15,8 +15,8 @@ import java.util.Scanner;
  * precede s1 lessicograficamente; il valore 0  se s1 e s2 sono 
  * uguali.
  * 
- *  L'ordine leccicografico è simile all'ordine alfabetico, con la 
- *  differenza che nessun simbolo è ignorato (spazi, accenti, apostrofi...)-
+ *  L'ordine lessicografico Ã¨ simile all'ordine alfabetico, con la 
+ *  differenza che nessun simbolo Ã¨ ignorato (spazi, accenti, apostrofi...)-
  */
 
 public class C08_IndovinaParola {

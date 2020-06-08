@@ -18,7 +18,7 @@ public static void main(String[] args) {
 		
 		//OR
 		if (ore < 0 || ore > 23 || min < 0 || min > 60)
-			System.out.println("Non è un orario");
+			System.out.println("Non Ã¨ un orario");
 		else 
 			System.out.println("E' un orario");
 		
@@ -26,7 +26,7 @@ public static void main(String[] args) {
 		if (ore >= 0 && ore <= 23 && min >= 0 && min <= 60)
 			System.out.println("E' un orario");
 		else
-			System.out.println("Non è un orario");
+			System.out.println("Non Ã¨ un orario");
 }
 	
 	

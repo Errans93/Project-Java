@@ -32,6 +32,6 @@ public class C03_SommaNumeri {
 
 		}
 		System.out.println();
-		System.out.println("La somma dei numeri che hai scelto è: " + somma);
+		System.out.println("La somma dei numeri che hai scelto Ã¨: " + somma);
 	}
 }
